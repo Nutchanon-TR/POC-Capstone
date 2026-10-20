@@ -1,0 +1,345 @@
+{
+  "profile": "KMUTT-Editor32-v1",
+  "palette": [
+    "292936",
+    "46364b",
+    "614854",
+    "855749",
+    "b17a54",
+    "d5a06b",
+    "eed2a0",
+    "594e55",
+    "84725e",
+    "b29b7c",
+    "d2c1a5",
+    "eee5cc",
+    "34494b",
+    "4b6656",
+    "74885d",
+    "a7b477",
+    "38435b",
+    "596881",
+    "909aa6",
+    "596d80",
+    "86a5ad",
+    "bed0ca",
+    "b75f65",
+    "d6ad57"
+  ],
+  "native_pixel_unit": 1,
+  "world_tile": 32,
+  "preview_character_visible_height": 56,
+  "panel_width_override": 192,
+  "assets": [
+    {
+      "id": "kmutt-stage-platform",
+      "image": "props/kmutt-stage-platform.png",
+      "width": 388,
+      "height": 120,
+      "anchor": [
+        194,
+        119
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\kmutt-job-fair-v1\\source\\kmutt-stage-platform.png",
+      "source_crop": [
+        55,
+        102,
+        1951,
+        674
+      ],
+      "palette_count": 8,
+      "binary_alpha": true,
+      "sha256": "4af8b5459e99ed5defc935397872cc9ee4673dc56a6c49244642bf6f48d0c84f"
+    },
+    {
+      "id": "kmutt-stage-screen",
+      "image": "props/kmutt-stage-screen.png",
+      "width": 260,
+      "height": 81,
+      "anchor": [
+        130,
+        80
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\kmutt-job-fair-v1\\source\\kmutt-stage-screen.png",
+      "source_crop": [
+        128,
+        98,
+        1965,
+        654
+      ],
+      "palette_count": 19,
+      "binary_alpha": true,
+      "sha256": "987ad3e68913ab7738ef27ae88ca4b35be2a508d36785d65fa099ef330d6ebd5"
+    },
+    {
+      "id": "kmutt-podium",
+      "image": "props/kmutt-podium.png",
+      "width": 36,
+      "height": 54,
+      "anchor": [
+        18,
+        53
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\kmutt-job-fair-v1\\source\\kmutt-podium.png",
+      "source_crop": [
+        174,
+        161,
+        890,
+        1282
+      ],
+      "palette_count": 13,
+      "binary_alpha": true,
+      "sha256": "b053d1e832fa6b4c0260e24dc7c4d3d5714bae434740a3be8c1a8c0eea326454"
+    },
+    {
+      "id": "kmutt-buffet-counter",
+      "image": "props/kmutt-buffet-counter.png",
+      "width": 148,
+      "height": 52,
+      "anchor": [
+        74,
+        51
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\kmutt-job-fair-v1\\source\\kmutt-buffet-counter.png",
+      "source_crop": [
+        216,
+        163,
+        1727,
+        664
+      ],
+      "palette_count": 23,
+      "binary_alpha": true,
+      "sha256": "dc6a6fe5edd7e5b119705bbad84bc042d8a267f25dac9b6fd897d0e8c06bf58b"
+    },
+    {
+      "id": "kmutt-booth-panel",
+      "image": "props/kmutt-booth-panel.png",
+      "width": 196,
+      "height": 65,
+      "anchor": [
+        98,
+        64
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\kmutt-job-fair-v1\\source\\kmutt-booth-panel.png",
+      "source_crop": [
+        110,
+        214,
+        1664,
+        707
+      ],
+      "palette_count": 19,
+      "binary_alpha": true,
+      "sha256": "4c2e1a04698928a40d9d3f700cc3c87c3b7ceec46c2fc31fd5c4f067d601268e"
+    },
+    {
+      "id": "table-short-h",
+      "image": "props/table-short-h.png",
+      "width": 64,
+      "height": 46,
+      "anchor": [
+        32,
+        45
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\table-short-h.png",
+      "source_crop": null,
+      "palette_count": 8,
+      "binary_alpha": true,
+      "sha256": "221d093568017b4d6ed55ebbc4e299d5330369037facb749668a395d41ae513b"
+    },
+    {
+      "id": "table-long-h",
+      "image": "props/table-long-h.png",
+      "width": 128,
+      "height": 58,
+      "anchor": [
+        64,
+        57
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\table-long-h.png",
+      "source_crop": null,
+      "palette_count": 9,
+      "binary_alpha": true,
+      "sha256": "bc1844052da4df1ee6bb8b5fe20442e5f5690fd194199ca708780acc8b064560"
+    },
+    {
+      "id": "table-round-small",
+      "image": "props/table-round-small.png",
+      "width": 48,
+      "height": 59,
+      "anchor": [
+        24,
+        58
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\table-round-small.png",
+      "source_crop": null,
+      "palette_count": 11,
+      "binary_alpha": true,
+      "sha256": "ccf6e3db3d86844305dc3cb0f6a420ee0cabc351b2dcde19b59d1838a655e76f"
+    },
+    {
+      "id": "chair-padded-up",
+      "image": "props/chair-padded-up.png",
+      "width": 36,
+      "height": 36,
+      "anchor": [
+        18,
+        35
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\chair-padded-up.png",
+      "source_crop": null,
+      "palette_count": 13,
+      "binary_alpha": true,
+      "sha256": "7bbc9535b9e393703466fbbc0dce2c4f706903ef42aa9cbf2bd88816494da692"
+    },
+    {
+      "id": "chair-padded-down",
+      "image": "props/chair-padded-down.png",
+      "width": 36,
+      "height": 37,
+      "anchor": [
+        18,
+        36
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\chair-padded-down.png",
+      "source_crop": null,
+      "palette_count": 11,
+      "binary_alpha": true,
+      "sha256": "168365f0594c14eb5051e541641bbeff3547938998463c3914b69d281cd8183e"
+    },
+    {
+      "id": "barrier-v",
+      "image": "props/barrier-v.png",
+      "width": 12,
+      "height": 75,
+      "anchor": [
+        6,
+        74
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\barrier-v.png",
+      "source_crop": null,
+      "palette_count": 5,
+      "binary_alpha": true,
+      "sha256": "80651a21de69ce0c95fefbe4dcee749ccd0dcf4b1e76d403f3610f0a165eed06"
+    },
+    {
+      "id": "planter-h",
+      "image": "props/planter-h.png",
+      "width": 80,
+      "height": 35,
+      "anchor": [
+        40,
+        34
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\planter-h.png",
+      "source_crop": null,
+      "palette_count": 9,
+      "binary_alpha": true,
+      "sha256": "4ffe3d598ee7ecbcf8a2d13e8f10bfaf4a3425334c57570b8061c220b57d6441"
+    },
+    {
+      "id": "sign-right",
+      "image": "props/sign-right.png",
+      "width": 49,
+      "height": 56,
+      "anchor": [
+        24,
+        55
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\sign-right.png",
+      "source_crop": null,
+      "palette_count": 12,
+      "binary_alpha": true,
+      "sha256": "481525f088b8cd6a76396a55dfbeec77463c8f3d59f806f851cdc8e04894b1a7"
+    },
+    {
+      "id": "kmutt-floor-ivory",
+      "image": "structure/kmutt-floor-ivory.png",
+      "width": 32,
+      "height": 32,
+      "anchor": [
+        16,
+        31
+      ],
+      "source": "authored modular floor geometry; shared palette",
+      "source_crop": null,
+      "palette_count": 2,
+      "binary_alpha": true,
+      "sha256": "aeadd2baa272b7a247523da1b401c24e7be5432f31dc055dbf3916a1d7f37ae5"
+    },
+    {
+      "id": "kmutt-floor-sage",
+      "image": "structure/kmutt-floor-sage.png",
+      "width": 32,
+      "height": 32,
+      "anchor": [
+        16,
+        31
+      ],
+      "source": "authored modular floor geometry; shared palette",
+      "source_crop": null,
+      "palette_count": 1,
+      "binary_alpha": true,
+      "sha256": "dc35a119394e6a523f8d84692f66f4d17f7e7caa0d58ba64f8318b1eb639ec30"
+    },
+    {
+      "id": "kmutt-floor-oat",
+      "image": "structure/kmutt-floor-oat.png",
+      "width": 32,
+      "height": 32,
+      "anchor": [
+        16,
+        31
+      ],
+      "source": "authored modular floor geometry; shared palette",
+      "source_crop": null,
+      "palette_count": 1,
+      "binary_alpha": true,
+      "sha256": "5e14b99b2a22ac992d981a4a4878c1f06a5378d611cc4aeba9c3749496f5cbf3"
+    },
+    {
+      "id": "kmutt-floor-guide",
+      "image": "structure/kmutt-floor-guide.png",
+      "width": 32,
+      "height": 32,
+      "anchor": [
+        16,
+        31
+      ],
+      "source": "authored modular floor geometry; shared palette",
+      "source_crop": null,
+      "palette_count": 1,
+      "binary_alpha": true,
+      "sha256": "8f15c8afd3dedee0b4d68cad92ccd7aa69f1a045de0403b1b678e5b4206612e0"
+    },
+    {
+      "id": "kmutt-trim-h",
+      "image": "structure/kmutt-trim-h.png",
+      "width": 32,
+      "height": 16,
+      "anchor": [
+        16,
+        15
+      ],
+      "source": "authored low wall trim geometry; shared palette",
+      "source_crop": null,
+      "palette_count": 3,
+      "binary_alpha": true,
+      "sha256": "564b3ea8b178fd9d212d59e255b30532c0721bcb2bda500a627ee6f4886a6768"
+    },
+    {
+      "id": "kmutt-trim-v",
+      "image": "structure/kmutt-trim-v.png",
+      "width": 16,
+      "height": 32,
+      "anchor": [
+        8,
+        31
+      ],
+      "source": "authored low wall trim geometry; shared palette",
+      "source_crop": null,
+      "palette_count": 3,
+      "binary_alpha": true,
+      "sha256": "143817d34e949bdee8ddd0325c78dca074416ebfec8e121427d42fa5f294e4be"
+    }
+  ]
+}

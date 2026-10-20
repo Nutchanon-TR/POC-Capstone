@@ -1,0 +1,204 @@
+{
+  "title": "kmutt",
+  "size": [
+    80,
+    56
+  ],
+  "world": [
+    2560,
+    1792
+  ],
+  "zoneCount": 6,
+  "booths": 12,
+  "objects": 510,
+  "colliders": 218,
+  "audienceSeats": 70,
+  "workshopTables": 6,
+  "interviewStations": 6,
+  "targets": [
+    {
+      "name": "1 · Registration",
+      "x": 320,
+      "y": 1504
+    },
+    {
+      "name": "2 · Jobseeker Zone",
+      "x": 704,
+      "y": 1008
+    },
+    {
+      "name": "3 · Food & Beverage",
+      "x": 336,
+      "y": 416
+    },
+    {
+      "name": "4 · Interview Area",
+      "x": 864,
+      "y": 640
+    },
+    {
+      "name": "5 · Workshop Area",
+      "x": 2000,
+      "y": 1536
+    },
+    {
+      "name": "6 · Main Stage",
+      "x": 2056,
+      "y": 288
+    },
+    {
+      "name": "Interview 1",
+      "x": 868,
+      "y": 324
+    },
+    {
+      "name": "Interview 2",
+      "x": 1124,
+      "y": 324
+    },
+    {
+      "name": "Interview 3",
+      "x": 1380,
+      "y": 324
+    },
+    {
+      "name": "Interview 4",
+      "x": 868,
+      "y": 580
+    },
+    {
+      "name": "Interview 5",
+      "x": 1124,
+      "y": 580
+    },
+    {
+      "name": "Interview 6",
+      "x": 1380,
+      "y": 580
+    },
+    {
+      "name": "Company 1",
+      "x": 736,
+      "y": 1008
+    },
+    {
+      "name": "Company 2",
+      "x": 992,
+      "y": 1008
+    },
+    {
+      "name": "Company 3",
+      "x": 1248,
+      "y": 1008
+    },
+    {
+      "name": "Company 4",
+      "x": 1504,
+      "y": 1008
+    },
+    {
+      "name": "Company 5",
+      "x": 1760,
+      "y": 1008
+    },
+    {
+      "name": "Company 6",
+      "x": 2016,
+      "y": 1008
+    },
+    {
+      "name": "Company 7",
+      "x": 736,
+      "y": 1328
+    },
+    {
+      "name": "Company 8",
+      "x": 992,
+      "y": 1328
+    },
+    {
+      "name": "Company 9",
+      "x": 1248,
+      "y": 1328
+    },
+    {
+      "name": "Company 10",
+      "x": 1504,
+      "y": 1328
+    },
+    {
+      "name": "Company 11",
+      "x": 1760,
+      "y": 1328
+    },
+    {
+      "name": "Company 12",
+      "x": 2016,
+      "y": 1328
+    },
+    {
+      "name": "Workshop table 1",
+      "x": 1664,
+      "y": 1496
+    },
+    {
+      "name": "Workshop table 2",
+      "x": 1920,
+      "y": 1496
+    },
+    {
+      "name": "Workshop table 3",
+      "x": 2176,
+      "y": 1496
+    },
+    {
+      "name": "Workshop table 4",
+      "x": 1664,
+      "y": 1688
+    },
+    {
+      "name": "Workshop table 5",
+      "x": 1920,
+      "y": 1688
+    },
+    {
+      "name": "Workshop table 6",
+      "x": 2176,
+      "y": 1688
+    }
+  ],
+  "reachableApproaches": 30,
+  "walkableSamples": 59467,
+  "footprint": [
+    26,
+    12
+  ],
+  "sampleStep": 8,
+  "generatedProps": 5,
+  "palette": [
+    "292936",
+    "46364b",
+    "614854",
+    "855749",
+    "b17a54",
+    "d5a06b",
+    "eed2a0",
+    "594e55",
+    "84725e",
+    "b29b7c",
+    "d2c1a5",
+    "eee5cc",
+    "34494b",
+    "4b6656",
+    "74885d",
+    "a7b477",
+    "38435b",
+    "596881",
+    "909aa6",
+    "596d80",
+    "86a5ad",
+    "bed0ca",
+    "b75f65",
+    "d6ad57"
+  ]
+}

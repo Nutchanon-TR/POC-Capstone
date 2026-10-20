@@ -1,0 +1,1805 @@
+{
+  "sheet": "sheet.png",
+  "native_sheet": "sheet-native.png",
+  "pieces": [
+    {
+      "id": "floor-wood-n-w",
+      "crop": [
+        0,
+        0,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "wood",
+      "kind": "floor",
+      "image_path": "individual/floor-wood-n-w.png"
+    },
+    {
+      "id": "floor-wood-n",
+      "crop": [
+        32,
+        0,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "wood",
+      "kind": "floor",
+      "image_path": "individual/floor-wood-n.png"
+    },
+    {
+      "id": "floor-wood-n-e",
+      "crop": [
+        64,
+        0,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "wood",
+      "kind": "floor",
+      "image_path": "individual/floor-wood-n-e.png"
+    },
+    {
+      "id": "floor-wood-w",
+      "crop": [
+        0,
+        32,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "wood",
+      "kind": "floor",
+      "image_path": "individual/floor-wood-w.png"
+    },
+    {
+      "id": "floor-wood-center",
+      "crop": [
+        32,
+        32,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "wood",
+      "kind": "floor",
+      "image_path": "individual/floor-wood-center.png"
+    },
+    {
+      "id": "floor-wood-e",
+      "crop": [
+        64,
+        32,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "wood",
+      "kind": "floor",
+      "image_path": "individual/floor-wood-e.png"
+    },
+    {
+      "id": "floor-wood-s-w",
+      "crop": [
+        0,
+        64,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "wood",
+      "kind": "floor",
+      "image_path": "individual/floor-wood-s-w.png"
+    },
+    {
+      "id": "floor-wood-s",
+      "crop": [
+        32,
+        64,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "wood",
+      "kind": "floor",
+      "image_path": "individual/floor-wood-s.png"
+    },
+    {
+      "id": "floor-wood-s-e",
+      "crop": [
+        64,
+        64,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "wood",
+      "kind": "floor",
+      "image_path": "individual/floor-wood-s-e.png"
+    },
+    {
+      "id": "floor-wood-extra-center",
+      "crop": [
+        0,
+        128,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "wood",
+      "kind": "floor-extra",
+      "image_path": "individual/floor-wood-extra-center.png"
+    },
+    {
+      "id": "floor-wood-extra-n",
+      "crop": [
+        32,
+        128,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "wood",
+      "kind": "floor-extra",
+      "image_path": "individual/floor-wood-extra-n.png"
+    },
+    {
+      "id": "floor-wood-extra-s",
+      "crop": [
+        64,
+        128,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "wood",
+      "kind": "floor-extra",
+      "image_path": "individual/floor-wood-extra-s.png"
+    },
+    {
+      "id": "wall-wood-n",
+      "crop": [
+        192,
+        0,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "wood",
+      "kind": "wall",
+      "direction": "n",
+      "image_path": "individual/wall-wood-n.png"
+    },
+    {
+      "id": "wall-wood-s",
+      "crop": [
+        224,
+        0,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "wood",
+      "kind": "wall",
+      "direction": "s",
+      "image_path": "individual/wall-wood-s.png"
+    },
+    {
+      "id": "wall-wood-w",
+      "crop": [
+        256,
+        0,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "wood",
+      "kind": "wall",
+      "direction": "w",
+      "image_path": "individual/wall-wood-w.png"
+    },
+    {
+      "id": "wall-wood-e",
+      "crop": [
+        288,
+        0,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "wood",
+      "kind": "wall",
+      "direction": "e",
+      "image_path": "individual/wall-wood-e.png"
+    },
+    {
+      "id": "wall-wood-corner-nw",
+      "crop": [
+        320,
+        0,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "wood",
+      "kind": "wall",
+      "direction": "corner-nw",
+      "image_path": "individual/wall-wood-corner-nw.png"
+    },
+    {
+      "id": "wall-wood-corner-ne",
+      "crop": [
+        352,
+        0,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "wood",
+      "kind": "wall",
+      "direction": "corner-ne",
+      "image_path": "individual/wall-wood-corner-ne.png"
+    },
+    {
+      "id": "wall-wood-corner-sw",
+      "crop": [
+        384,
+        0,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "wood",
+      "kind": "wall",
+      "direction": "corner-sw",
+      "image_path": "individual/wall-wood-corner-sw.png"
+    },
+    {
+      "id": "wall-wood-corner-se",
+      "crop": [
+        416,
+        0,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "wood",
+      "kind": "wall",
+      "direction": "corner-se",
+      "image_path": "individual/wall-wood-corner-se.png"
+    },
+    {
+      "id": "wall-wood-junction-corner-nw",
+      "crop": [
+        192,
+        96,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "wood",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-wood-junction-corner-nw.png"
+    },
+    {
+      "id": "wall-wood-junction-corner-ne",
+      "crop": [
+        224,
+        96,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "wood",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-wood-junction-corner-ne.png"
+    },
+    {
+      "id": "wall-wood-junction-corner-sw",
+      "crop": [
+        256,
+        96,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "wood",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-wood-junction-corner-sw.png"
+    },
+    {
+      "id": "wall-wood-junction-corner-se",
+      "crop": [
+        288,
+        96,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "wood",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-wood-junction-corner-se.png"
+    },
+    {
+      "id": "wall-wood-junction-post",
+      "crop": [
+        320,
+        96,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "wood",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-wood-junction-post.png"
+    },
+    {
+      "id": "floor-mint-n-w",
+      "crop": [
+        0,
+        192,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "mint",
+      "kind": "floor",
+      "image_path": "individual/floor-mint-n-w.png"
+    },
+    {
+      "id": "floor-mint-n",
+      "crop": [
+        32,
+        192,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "mint",
+      "kind": "floor",
+      "image_path": "individual/floor-mint-n.png"
+    },
+    {
+      "id": "floor-mint-n-e",
+      "crop": [
+        64,
+        192,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "mint",
+      "kind": "floor",
+      "image_path": "individual/floor-mint-n-e.png"
+    },
+    {
+      "id": "floor-mint-w",
+      "crop": [
+        0,
+        224,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "mint",
+      "kind": "floor",
+      "image_path": "individual/floor-mint-w.png"
+    },
+    {
+      "id": "floor-mint-center",
+      "crop": [
+        32,
+        224,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "mint",
+      "kind": "floor",
+      "image_path": "individual/floor-mint-center.png"
+    },
+    {
+      "id": "floor-mint-e",
+      "crop": [
+        64,
+        224,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "mint",
+      "kind": "floor",
+      "image_path": "individual/floor-mint-e.png"
+    },
+    {
+      "id": "floor-mint-s-w",
+      "crop": [
+        0,
+        256,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "mint",
+      "kind": "floor",
+      "image_path": "individual/floor-mint-s-w.png"
+    },
+    {
+      "id": "floor-mint-s",
+      "crop": [
+        32,
+        256,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "mint",
+      "kind": "floor",
+      "image_path": "individual/floor-mint-s.png"
+    },
+    {
+      "id": "floor-mint-s-e",
+      "crop": [
+        64,
+        256,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "mint",
+      "kind": "floor",
+      "image_path": "individual/floor-mint-s-e.png"
+    },
+    {
+      "id": "floor-mint-extra-center",
+      "crop": [
+        0,
+        320,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "mint",
+      "kind": "floor-extra",
+      "image_path": "individual/floor-mint-extra-center.png"
+    },
+    {
+      "id": "floor-mint-extra-n",
+      "crop": [
+        32,
+        320,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "mint",
+      "kind": "floor-extra",
+      "image_path": "individual/floor-mint-extra-n.png"
+    },
+    {
+      "id": "floor-mint-extra-s",
+      "crop": [
+        64,
+        320,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "mint",
+      "kind": "floor-extra",
+      "image_path": "individual/floor-mint-extra-s.png"
+    },
+    {
+      "id": "wall-mint-n",
+      "crop": [
+        192,
+        192,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "mint",
+      "kind": "wall",
+      "direction": "n",
+      "image_path": "individual/wall-mint-n.png"
+    },
+    {
+      "id": "wall-mint-s",
+      "crop": [
+        224,
+        192,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "mint",
+      "kind": "wall",
+      "direction": "s",
+      "image_path": "individual/wall-mint-s.png"
+    },
+    {
+      "id": "wall-mint-w",
+      "crop": [
+        256,
+        192,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "mint",
+      "kind": "wall",
+      "direction": "w",
+      "image_path": "individual/wall-mint-w.png"
+    },
+    {
+      "id": "wall-mint-e",
+      "crop": [
+        288,
+        192,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "mint",
+      "kind": "wall",
+      "direction": "e",
+      "image_path": "individual/wall-mint-e.png"
+    },
+    {
+      "id": "wall-mint-corner-nw",
+      "crop": [
+        320,
+        192,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "mint",
+      "kind": "wall",
+      "direction": "corner-nw",
+      "image_path": "individual/wall-mint-corner-nw.png"
+    },
+    {
+      "id": "wall-mint-corner-ne",
+      "crop": [
+        352,
+        192,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "mint",
+      "kind": "wall",
+      "direction": "corner-ne",
+      "image_path": "individual/wall-mint-corner-ne.png"
+    },
+    {
+      "id": "wall-mint-corner-sw",
+      "crop": [
+        384,
+        192,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "mint",
+      "kind": "wall",
+      "direction": "corner-sw",
+      "image_path": "individual/wall-mint-corner-sw.png"
+    },
+    {
+      "id": "wall-mint-corner-se",
+      "crop": [
+        416,
+        192,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "mint",
+      "kind": "wall",
+      "direction": "corner-se",
+      "image_path": "individual/wall-mint-corner-se.png"
+    },
+    {
+      "id": "wall-mint-junction-corner-nw",
+      "crop": [
+        192,
+        288,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "mint",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-mint-junction-corner-nw.png"
+    },
+    {
+      "id": "wall-mint-junction-corner-ne",
+      "crop": [
+        224,
+        288,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "mint",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-mint-junction-corner-ne.png"
+    },
+    {
+      "id": "wall-mint-junction-corner-sw",
+      "crop": [
+        256,
+        288,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "mint",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-mint-junction-corner-sw.png"
+    },
+    {
+      "id": "wall-mint-junction-corner-se",
+      "crop": [
+        288,
+        288,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "mint",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-mint-junction-corner-se.png"
+    },
+    {
+      "id": "wall-mint-junction-post",
+      "crop": [
+        320,
+        288,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "mint",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-mint-junction-post.png"
+    },
+    {
+      "id": "floor-carpet-n-w",
+      "crop": [
+        0,
+        384,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "carpet",
+      "kind": "floor",
+      "image_path": "individual/floor-carpet-n-w.png"
+    },
+    {
+      "id": "floor-carpet-n",
+      "crop": [
+        32,
+        384,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "carpet",
+      "kind": "floor",
+      "image_path": "individual/floor-carpet-n.png"
+    },
+    {
+      "id": "floor-carpet-n-e",
+      "crop": [
+        64,
+        384,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "carpet",
+      "kind": "floor",
+      "image_path": "individual/floor-carpet-n-e.png"
+    },
+    {
+      "id": "floor-carpet-w",
+      "crop": [
+        0,
+        416,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "carpet",
+      "kind": "floor",
+      "image_path": "individual/floor-carpet-w.png"
+    },
+    {
+      "id": "floor-carpet-center",
+      "crop": [
+        32,
+        416,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "carpet",
+      "kind": "floor",
+      "image_path": "individual/floor-carpet-center.png"
+    },
+    {
+      "id": "floor-carpet-e",
+      "crop": [
+        64,
+        416,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "carpet",
+      "kind": "floor",
+      "image_path": "individual/floor-carpet-e.png"
+    },
+    {
+      "id": "floor-carpet-s-w",
+      "crop": [
+        0,
+        448,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "carpet",
+      "kind": "floor",
+      "image_path": "individual/floor-carpet-s-w.png"
+    },
+    {
+      "id": "floor-carpet-s",
+      "crop": [
+        32,
+        448,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "carpet",
+      "kind": "floor",
+      "image_path": "individual/floor-carpet-s.png"
+    },
+    {
+      "id": "floor-carpet-s-e",
+      "crop": [
+        64,
+        448,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "carpet",
+      "kind": "floor",
+      "image_path": "individual/floor-carpet-s-e.png"
+    },
+    {
+      "id": "floor-carpet-extra-center",
+      "crop": [
+        0,
+        512,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "carpet",
+      "kind": "floor-extra",
+      "image_path": "individual/floor-carpet-extra-center.png"
+    },
+    {
+      "id": "floor-carpet-extra-n",
+      "crop": [
+        32,
+        512,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "carpet",
+      "kind": "floor-extra",
+      "image_path": "individual/floor-carpet-extra-n.png"
+    },
+    {
+      "id": "floor-carpet-extra-s",
+      "crop": [
+        64,
+        512,
+        32,
+        32
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        0,
+        0
+      ],
+      "family": "carpet",
+      "kind": "floor-extra",
+      "image_path": "individual/floor-carpet-extra-s.png"
+    },
+    {
+      "id": "wall-carpet-n",
+      "crop": [
+        192,
+        384,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "carpet",
+      "kind": "wall",
+      "direction": "n",
+      "image_path": "individual/wall-carpet-n.png"
+    },
+    {
+      "id": "wall-carpet-s",
+      "crop": [
+        224,
+        384,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "carpet",
+      "kind": "wall",
+      "direction": "s",
+      "image_path": "individual/wall-carpet-s.png"
+    },
+    {
+      "id": "wall-carpet-w",
+      "crop": [
+        256,
+        384,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "carpet",
+      "kind": "wall",
+      "direction": "w",
+      "image_path": "individual/wall-carpet-w.png"
+    },
+    {
+      "id": "wall-carpet-e",
+      "crop": [
+        288,
+        384,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "carpet",
+      "kind": "wall",
+      "direction": "e",
+      "image_path": "individual/wall-carpet-e.png"
+    },
+    {
+      "id": "wall-carpet-corner-nw",
+      "crop": [
+        320,
+        384,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "carpet",
+      "kind": "wall",
+      "direction": "corner-nw",
+      "image_path": "individual/wall-carpet-corner-nw.png"
+    },
+    {
+      "id": "wall-carpet-corner-ne",
+      "crop": [
+        352,
+        384,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "carpet",
+      "kind": "wall",
+      "direction": "corner-ne",
+      "image_path": "individual/wall-carpet-corner-ne.png"
+    },
+    {
+      "id": "wall-carpet-corner-sw",
+      "crop": [
+        384,
+        384,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "carpet",
+      "kind": "wall",
+      "direction": "corner-sw",
+      "image_path": "individual/wall-carpet-corner-sw.png"
+    },
+    {
+      "id": "wall-carpet-corner-se",
+      "crop": [
+        416,
+        384,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "carpet",
+      "kind": "wall",
+      "direction": "corner-se",
+      "image_path": "individual/wall-carpet-corner-se.png"
+    },
+    {
+      "id": "wall-carpet-junction-corner-nw",
+      "crop": [
+        192,
+        480,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "carpet",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-carpet-junction-corner-nw.png"
+    },
+    {
+      "id": "wall-carpet-junction-corner-ne",
+      "crop": [
+        224,
+        480,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "carpet",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-carpet-junction-corner-ne.png"
+    },
+    {
+      "id": "wall-carpet-junction-corner-sw",
+      "crop": [
+        256,
+        480,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "carpet",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-carpet-junction-corner-sw.png"
+    },
+    {
+      "id": "wall-carpet-junction-corner-se",
+      "crop": [
+        288,
+        480,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "carpet",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-carpet-junction-corner-se.png"
+    },
+    {
+      "id": "wall-carpet-junction-post",
+      "crop": [
+        320,
+        480,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "family": "carpet",
+      "kind": "wall-junction",
+      "image_path": "individual/wall-carpet-junction-post.png"
+    },
+    {
+      "id": "glass-h",
+      "crop": [
+        0,
+        576,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "kind": "glass",
+      "direction": "h",
+      "image_path": "individual/glass-h.png"
+    },
+    {
+      "id": "glass-v",
+      "crop": [
+        32,
+        576,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "kind": "glass",
+      "direction": "v",
+      "image_path": "individual/glass-v.png"
+    },
+    {
+      "id": "glass-corner-nw",
+      "crop": [
+        64,
+        576,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "kind": "glass",
+      "direction": "corner-nw",
+      "image_path": "individual/glass-corner-nw.png"
+    },
+    {
+      "id": "glass-corner-ne",
+      "crop": [
+        96,
+        576,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "kind": "glass",
+      "direction": "corner-ne",
+      "image_path": "individual/glass-corner-ne.png"
+    },
+    {
+      "id": "glass-corner-sw",
+      "crop": [
+        128,
+        576,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "kind": "glass",
+      "direction": "corner-sw",
+      "image_path": "individual/glass-corner-sw.png"
+    },
+    {
+      "id": "glass-corner-se",
+      "crop": [
+        160,
+        576,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "kind": "glass",
+      "direction": "corner-se",
+      "image_path": "individual/glass-corner-se.png"
+    },
+    {
+      "id": "door-single-down",
+      "crop": [
+        192,
+        576,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "kind": "door",
+      "direction": "down",
+      "opening_world_width": 24,
+      "image_path": "individual/door-single-down.png"
+    },
+    {
+      "id": "door-single-up",
+      "crop": [
+        224,
+        576,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "kind": "door",
+      "direction": "up",
+      "opening_world_width": 24,
+      "image_path": "individual/door-single-up.png"
+    },
+    {
+      "id": "door-single-left",
+      "crop": [
+        256,
+        576,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "kind": "door",
+      "direction": "left",
+      "opening_world_width": 24,
+      "image_path": "individual/door-single-left.png"
+    },
+    {
+      "id": "door-single-right",
+      "crop": [
+        288,
+        576,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "kind": "door",
+      "direction": "right",
+      "opening_world_width": 24,
+      "image_path": "individual/door-single-right.png"
+    },
+    {
+      "id": "door-single-open",
+      "crop": [
+        320,
+        576,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "kind": "door",
+      "state": "open",
+      "image_path": "individual/door-single-open.png"
+    },
+    {
+      "id": "door-double-down",
+      "crop": [
+        352,
+        576,
+        64,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        32,
+        56
+      ],
+      "kind": "door",
+      "direction": "down",
+      "opening_world_width": 56,
+      "image_path": "individual/door-double-down.png"
+    },
+    {
+      "id": "door-double-up",
+      "crop": [
+        416,
+        576,
+        64,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        32,
+        56
+      ],
+      "kind": "door",
+      "direction": "up",
+      "opening_world_width": 56,
+      "image_path": "individual/door-double-up.png"
+    },
+    {
+      "id": "door-double-left",
+      "crop": [
+        480,
+        576,
+        32,
+        128
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        72
+      ],
+      "kind": "door",
+      "direction": "left",
+      "opening_world_width": 56,
+      "image_path": "individual/door-double-left.png"
+    },
+    {
+      "id": "door-double-right",
+      "crop": [
+        0,
+        704,
+        32,
+        128
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        72
+      ],
+      "kind": "door",
+      "direction": "right",
+      "opening_world_width": 56,
+      "image_path": "individual/door-double-right.png"
+    },
+    {
+      "id": "door-double-open",
+      "crop": [
+        32,
+        704,
+        64,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        32,
+        56
+      ],
+      "kind": "door",
+      "state": "open",
+      "image_path": "individual/door-double-open.png"
+    },
+    {
+      "id": "pillar-stone",
+      "crop": [
+        96,
+        704,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "kind": "building-pillar",
+      "image_path": "individual/pillar-stone.png"
+    },
+    {
+      "id": "pillar-darkwood",
+      "crop": [
+        128,
+        704,
+        32,
+        96
+      ],
+      "world_grid": 32,
+      "connection_target": "grid-aligned structural module",
+      "height_socket": 80,
+      "ground_origin": [
+        16,
+        56
+      ],
+      "kind": "building-pillar",
+      "image_path": "individual/pillar-darkwood.png"
+    }
+  ],
+  "group": "structure",
+  "count": 93
+}

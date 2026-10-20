@@ -1,0 +1,9 @@
+{
+  "prompt": "Create one isolated pixel-art furniture sprite for a Phaser RPG map, Editor32-v1. Orthographic high-angle top-down view, front edge horizontal, symmetric straight-on room axis; show top plane and compressed front plane like the existing pixel sprite reference. No isometric rotation. Sharp pixel clusters, thin dark brown contours, restricted cream/mint/green/brown palette matching the existing sprite. No text, logo, room, floor, people, shadows, glow, antialiasing, photographic rendering, or checkerboard. Actual transparent alpha, centered with padding. Existing expo-booth-counter image is ONLY style, palette and camera reference. User photos are object design references ONLY (cloth covering and broad registration-counter silhouette), NOT camera or render style. Make one EMPTY wide rectangular exhibition table draped fully in cloth. Flat ivory/cream top, cream front cloth panel, muted deep green side panels and green lower hem, 3 or 4 sparse readable vertical cloth folds. No computer, papers, chairs, accessories. Silhouette roughly 112 pixels wide by 56 pixels high at final native scale. Render one coherent pixel sprite.",
+  "references": [
+    "D:/A_SIT04/SIT4-TERM1/a_M_CapStone/POC-Phaser/Editor/public/starter/props/expo-booth-counter.png",
+    "C:/Users/USERHP~1/AppData/Local/Temp/codex-clipboard-86b0f513-65c6-40ad-9d51-ad8ca20bfe60.png",
+    "C:/Users/USERHP~1/AppData/Local/Temp/codex-clipboard-45386013-1f6f-45ba-b60f-f326ca8ff524.png"
+  ],
+  "mode": "built-in imagegen"
+}

@@ -1,0 +1,1587 @@
+[
+  {
+    "key": "booth-01",
+    "width": 192,
+    "height": 200,
+    "parts": [
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "wall-mint-corner-nw",
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 32,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 64,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 96,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 128,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-corner-ne",
+        "x": 160,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-w",
+        "x": 0,
+        "y": 32,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-e",
+        "x": 160,
+        "y": 32,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-w",
+        "x": 0,
+        "y": 64,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-e",
+        "x": 160,
+        "y": 64,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "expo-cloth-table",
+        "x": 38,
+        "y": 127.29508196721312,
+        "w": 116,
+        "h": 43.704918032786885
+      },
+      {
+        "key": "expo-computer",
+        "x": 106,
+        "y": 95.78688524590164,
+        "w": 32,
+        "h": 36.59016393442623,
+        "depthY": 75
+      },
+      {
+        "key": "expo-documents",
+        "x": 62,
+        "y": 119.16393442622952,
+        "w": 20,
+        "h": 18.295081967213115,
+        "depthY": 52
+      },
+      {
+        "key": "plant-small",
+        "x": 140,
+        "y": 69,
+        "w": 25,
+        "h": 28
+      }
+    ]
+  },
+  {
+    "key": "booth-02",
+    "width": 192,
+    "height": 200,
+    "parts": [
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "wall-mint-corner-nw",
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 32,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 64,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 96,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 128,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-corner-ne",
+        "x": 160,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-w",
+        "x": 0,
+        "y": 32,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-e",
+        "x": 160,
+        "y": 32,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-w",
+        "x": 0,
+        "y": 64,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-e",
+        "x": 160,
+        "y": 64,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "expo-cloth-table",
+        "x": 38,
+        "y": 127.29508196721312,
+        "w": 116,
+        "h": 43.704918032786885
+      },
+      {
+        "key": "expo-computer",
+        "x": 106,
+        "y": 95.78688524590164,
+        "w": 32,
+        "h": 36.59016393442623,
+        "depthY": 75
+      },
+      {
+        "key": "expo-documents",
+        "x": 62,
+        "y": 119.16393442622952,
+        "w": 20,
+        "h": 18.295081967213115,
+        "depthY": 52
+      },
+      {
+        "key": "plant-small",
+        "x": 140,
+        "y": 69,
+        "w": 25,
+        "h": 28
+      }
+    ]
+  },
+  {
+    "key": "booth-03",
+    "width": 160,
+    "height": 200,
+    "parts": [
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "wall-mint-corner-nw",
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 32,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 64,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 96,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-corner-ne",
+        "x": 128,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-w",
+        "x": 0,
+        "y": 32,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-e",
+        "x": 128,
+        "y": 32,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-w",
+        "x": 0,
+        "y": 64,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-e",
+        "x": 128,
+        "y": 64,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "expo-cloth-table",
+        "x": 22,
+        "y": 127.29508196721312,
+        "w": 116,
+        "h": 43.704918032786885
+      },
+      {
+        "key": "expo-computer",
+        "x": 90,
+        "y": 95.78688524590164,
+        "w": 32,
+        "h": 36.59016393442623,
+        "depthY": 75
+      },
+      {
+        "key": "expo-documents",
+        "x": 46,
+        "y": 119.16393442622952,
+        "w": 20,
+        "h": 18.295081967213115,
+        "depthY": 52
+      },
+      {
+        "key": "plant-small",
+        "x": 108,
+        "y": 69,
+        "w": 25,
+        "h": 28
+      }
+    ]
+  },
+  {
+    "key": "booth-04",
+    "width": 192,
+    "height": 200,
+    "parts": [
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "wall-mint-corner-nw",
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 32,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 64,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 96,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 128,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-corner-ne",
+        "x": 160,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-w",
+        "x": 0,
+        "y": 32,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-e",
+        "x": 160,
+        "y": 32,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-w",
+        "x": 0,
+        "y": 64,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-e",
+        "x": 160,
+        "y": 64,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "expo-cloth-table",
+        "x": 38,
+        "y": 127.29508196721312,
+        "w": 116,
+        "h": 43.704918032786885
+      },
+      {
+        "key": "expo-computer",
+        "x": 106,
+        "y": 95.78688524590164,
+        "w": 32,
+        "h": 36.59016393442623,
+        "depthY": 75
+      },
+      {
+        "key": "expo-documents",
+        "x": 62,
+        "y": 119.16393442622952,
+        "w": 20,
+        "h": 18.295081967213115,
+        "depthY": 52
+      },
+      {
+        "key": "plant-small",
+        "x": 140,
+        "y": 69,
+        "w": 25,
+        "h": 28
+      }
+    ]
+  },
+  {
+    "key": "booth-05",
+    "width": 224,
+    "height": 200,
+    "parts": [
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 192,
+        "y": 40,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 192,
+        "y": 72,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 192,
+        "y": 104,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 192,
+        "y": 136,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 0,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 32,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 64,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 96,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 128,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 160,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "floor-wood-center",
+        "x": 192,
+        "y": 168,
+        "w": 32,
+        "h": 32
+      },
+      {
+        "key": "wall-mint-corner-nw",
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 32,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 64,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 96,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 128,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-n",
+        "x": 160,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-corner-ne",
+        "x": 192,
+        "y": 0,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-w",
+        "x": 0,
+        "y": 32,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-e",
+        "x": 192,
+        "y": 32,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-w",
+        "x": 0,
+        "y": 64,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "wall-mint-e",
+        "x": 192,
+        "y": 64,
+        "w": 32,
+        "h": 96
+      },
+      {
+        "key": "expo-cloth-table",
+        "x": 54,
+        "y": 127.29508196721312,
+        "w": 116,
+        "h": 43.704918032786885
+      },
+      {
+        "key": "expo-computer",
+        "x": 122,
+        "y": 95.78688524590164,
+        "w": 32,
+        "h": 36.59016393442623,
+        "depthY": 75
+      },
+      {
+        "key": "expo-documents",
+        "x": 78,
+        "y": 119.16393442622952,
+        "w": 20,
+        "h": 18.295081967213115,
+        "depthY": 52
+      },
+      {
+        "key": "plant-small",
+        "x": 172,
+        "y": 69,
+        "w": 25,
+        "h": 28
+      }
+    ]
+  }
+]

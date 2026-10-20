@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-13",
+  "url": "http://127.0.0.1:3001/editor",
+  "unitTestsPassed": 12,
+  "browserChecks": {
+    "gestureAndMobileRegression": "passed",
+    "zoneNamesInZoneMode": "passed",
+    "blueBorderAndLightBlueFill": "visually verified",
+    "clickInteriorSelectsWithoutCreatingAnotherZone": "passed",
+    "dragMovesZoneAndLabelTogether": "passed",
+    "nestedZoneCreationAndSelection": "passed",
+    "deleteAndUndoRestoreZone": "passed",
+    "spacePanningAndEscapeCancellation": "passed",
+    "pageErrors": []
+  },
+  "productionBuild": "passed",
+  "lintTouchedFiles": "passed",
+  "screenshots": ["zone-selected-blue.png", "zone-moving-blue.png"]
+}

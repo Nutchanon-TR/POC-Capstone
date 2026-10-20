@@ -1,0 +1,25 @@
+import { defineConfig, devices } from '@playwright/test';
+
+export default defineConfig({
+  testDir: './tests/browser',
+  fullyParallel: false,
+  workers: 1,
+  timeout: 45000,
+  use: {
+    baseURL: 'http://127.0.0.1:3100',
+    trace: 'retain-on-failure',
+    channel: process.env.PLAYWRIGHT_CHANNEL,
+  },
+  projects: [
+    {
+      name: 'chromium',
+      use: { ...devices['Desktop Chrome'], viewport: { width: 1440, height: 1000 } },
+    },
+  ],
+  webServer: {
+    command: 'npm run dev',
+    url: 'http://127.0.0.1:3100',
+    reuseExistingServer: !process.env.CI,
+    timeout: 120000,
+  },
+});

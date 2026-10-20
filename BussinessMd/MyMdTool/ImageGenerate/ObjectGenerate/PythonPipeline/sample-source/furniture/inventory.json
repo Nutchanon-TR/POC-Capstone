@@ -1,0 +1,1048 @@
+{
+  "sheet": "sheet.png",
+  "native_sheet": "sheet-native.png",
+  "pieces": [
+    {
+      "id": "table-short-h",
+      "anchor": [
+        32,
+        45
+      ],
+      "footprint": [
+        64,
+        48
+      ],
+      "direction": "down",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        48,
+        83,
+        64,
+        46
+      ],
+      "world_anchor": [
+        80,
+        128
+      ],
+      "canonical_part_count": 5,
+      "image_path": "individual/table-short-h.png"
+    },
+    {
+      "id": "table-short-v",
+      "anchor": [
+        24,
+        71
+      ],
+      "footprint": [
+        48,
+        64
+      ],
+      "direction": "right",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        216,
+        57,
+        48,
+        72
+      ],
+      "world_anchor": [
+        240,
+        128
+      ],
+      "canonical_part_count": 5,
+      "image_path": "individual/table-short-v.png"
+    },
+    {
+      "id": "table-long-h",
+      "anchor": [
+        64,
+        57
+      ],
+      "footprint": [
+        128,
+        48
+      ],
+      "direction": "down",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        336,
+        71,
+        128,
+        58
+      ],
+      "world_anchor": [
+        400,
+        128
+      ],
+      "canonical_part_count": 5,
+      "image_path": "individual/table-long-h.png"
+    },
+    {
+      "id": "table-long-v",
+      "anchor": [
+        24,
+        106
+      ],
+      "footprint": [
+        48,
+        128
+      ],
+      "direction": "right",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        536,
+        22,
+        48,
+        107
+      ],
+      "world_anchor": [
+        560,
+        128
+      ],
+      "canonical_part_count": 5,
+      "image_path": "individual/table-long-v.png"
+    },
+    {
+      "id": "table-round-small",
+      "anchor": [
+        24,
+        58
+      ],
+      "footprint": [
+        48,
+        48
+      ],
+      "direction": "symmetric",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        696,
+        70,
+        48,
+        59
+      ],
+      "world_anchor": [
+        720,
+        128
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/table-round-small.png"
+    },
+    {
+      "id": "table-round-large",
+      "anchor": [
+        32,
+        73
+      ],
+      "footprint": [
+        64,
+        64
+      ],
+      "direction": "symmetric",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        848,
+        55,
+        64,
+        74
+      ],
+      "world_anchor": [
+        880,
+        128
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/table-round-large.png"
+    },
+    {
+      "id": "table-folding-down",
+      "anchor": [
+        48,
+        62
+      ],
+      "footprint": [
+        96,
+        40
+      ],
+      "direction": "down",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        992,
+        66,
+        96,
+        63
+      ],
+      "world_anchor": [
+        1040,
+        128
+      ],
+      "canonical_part_count": 6,
+      "image_path": "individual/table-folding-down.png"
+    },
+    {
+      "id": "table-folding-right",
+      "anchor": [
+        20,
+        75
+      ],
+      "footprint": [
+        40,
+        96
+      ],
+      "direction": "right",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        1180,
+        53,
+        40,
+        76
+      ],
+      "world_anchor": [
+        1200,
+        128
+      ],
+      "canonical_part_count": 6,
+      "image_path": "individual/table-folding-right.png"
+    },
+    {
+      "id": "chair-wood-down",
+      "anchor": [
+        18,
+        40
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "direction": "down",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        62,
+        232,
+        36,
+        41
+      ],
+      "world_anchor": [
+        80,
+        272
+      ],
+      "canonical_part_count": 10,
+      "image_path": "individual/chair-wood-down.png"
+    },
+    {
+      "id": "chair-wood-up",
+      "anchor": [
+        18,
+        41
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "direction": "up",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        222,
+        231,
+        36,
+        42
+      ],
+      "world_anchor": [
+        240,
+        272
+      ],
+      "canonical_part_count": 10,
+      "image_path": "individual/chair-wood-up.png"
+    },
+    {
+      "id": "chair-wood-left",
+      "anchor": [
+        16,
+        42
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "direction": "left",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        384,
+        230,
+        32,
+        43
+      ],
+      "world_anchor": [
+        400,
+        272
+      ],
+      "canonical_part_count": 10,
+      "image_path": "individual/chair-wood-left.png"
+    },
+    {
+      "id": "chair-wood-right",
+      "anchor": [
+        16,
+        42
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "direction": "right",
+      "drawing_method": "symmetric_side_mirror",
+      "atlas": "furniture",
+      "crop": [
+        544,
+        230,
+        32,
+        43
+      ],
+      "world_anchor": [
+        560,
+        272
+      ],
+      "canonical_part_count": 10,
+      "image_path": "individual/chair-wood-right.png"
+    },
+    {
+      "id": "chair-padded-down",
+      "anchor": [
+        18,
+        36
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "direction": "down",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        702,
+        236,
+        36,
+        37
+      ],
+      "world_anchor": [
+        720,
+        272
+      ],
+      "canonical_part_count": 10,
+      "image_path": "individual/chair-padded-down.png"
+    },
+    {
+      "id": "chair-padded-up",
+      "anchor": [
+        18,
+        35
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "direction": "up",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        862,
+        237,
+        36,
+        36
+      ],
+      "world_anchor": [
+        880,
+        272
+      ],
+      "canonical_part_count": 10,
+      "image_path": "individual/chair-padded-up.png"
+    },
+    {
+      "id": "chair-padded-left",
+      "anchor": [
+        16,
+        40
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "direction": "left",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        1024,
+        232,
+        32,
+        41
+      ],
+      "world_anchor": [
+        1040,
+        272
+      ],
+      "canonical_part_count": 10,
+      "image_path": "individual/chair-padded-left.png"
+    },
+    {
+      "id": "chair-padded-right",
+      "anchor": [
+        16,
+        40
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "direction": "right",
+      "drawing_method": "symmetric_side_mirror",
+      "atlas": "furniture",
+      "crop": [
+        1184,
+        232,
+        32,
+        41
+      ],
+      "world_anchor": [
+        1200,
+        272
+      ],
+      "canonical_part_count": 10,
+      "image_path": "individual/chair-padded-right.png"
+    },
+    {
+      "id": "sofa-down",
+      "anchor": [
+        48,
+        55
+      ],
+      "footprint": [
+        96,
+        40
+      ],
+      "direction": "down",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        32,
+        361,
+        96,
+        56
+      ],
+      "world_anchor": [
+        80,
+        416
+      ],
+      "canonical_part_count": 12,
+      "image_path": "individual/sofa-down.png"
+    },
+    {
+      "id": "sofa-up",
+      "anchor": [
+        47,
+        56
+      ],
+      "footprint": [
+        96,
+        40
+      ],
+      "direction": "up",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        193,
+        360,
+        95,
+        57
+      ],
+      "world_anchor": [
+        240,
+        416
+      ],
+      "canonical_part_count": 12,
+      "image_path": "individual/sofa-up.png"
+    },
+    {
+      "id": "sofa-left",
+      "anchor": [
+        20,
+        77
+      ],
+      "footprint": [
+        40,
+        96
+      ],
+      "direction": "left",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        380,
+        339,
+        40,
+        78
+      ],
+      "world_anchor": [
+        400,
+        416
+      ],
+      "canonical_part_count": 12,
+      "image_path": "individual/sofa-left.png"
+    },
+    {
+      "id": "sofa-right",
+      "anchor": [
+        20,
+        77
+      ],
+      "footprint": [
+        40,
+        96
+      ],
+      "direction": "right",
+      "drawing_method": "symmetric_side_mirror",
+      "atlas": "furniture",
+      "crop": [
+        540,
+        339,
+        40,
+        78
+      ],
+      "world_anchor": [
+        560,
+        416
+      ],
+      "canonical_part_count": 12,
+      "image_path": "individual/sofa-right.png"
+    },
+    {
+      "id": "bench-down",
+      "anchor": [
+        48,
+        61
+      ],
+      "footprint": [
+        96,
+        32
+      ],
+      "direction": "down",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        672,
+        355,
+        96,
+        62
+      ],
+      "world_anchor": [
+        720,
+        416
+      ],
+      "canonical_part_count": 14,
+      "image_path": "individual/bench-down.png"
+    },
+    {
+      "id": "bench-up",
+      "anchor": [
+        48,
+        67
+      ],
+      "footprint": [
+        96,
+        32
+      ],
+      "direction": "up",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        832,
+        349,
+        96,
+        68
+      ],
+      "world_anchor": [
+        880,
+        416
+      ],
+      "canonical_part_count": 14,
+      "image_path": "individual/bench-up.png"
+    },
+    {
+      "id": "bench-left",
+      "anchor": [
+        16,
+        70
+      ],
+      "footprint": [
+        32,
+        96
+      ],
+      "direction": "left",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        1024,
+        346,
+        32,
+        71
+      ],
+      "world_anchor": [
+        1040,
+        416
+      ],
+      "canonical_part_count": 14,
+      "image_path": "individual/bench-left.png"
+    },
+    {
+      "id": "bench-right",
+      "anchor": [
+        16,
+        70
+      ],
+      "footprint": [
+        32,
+        96
+      ],
+      "direction": "right",
+      "drawing_method": "symmetric_side_mirror",
+      "atlas": "furniture",
+      "crop": [
+        1184,
+        346,
+        32,
+        71
+      ],
+      "world_anchor": [
+        1200,
+        416
+      ],
+      "canonical_part_count": 14,
+      "image_path": "individual/bench-right.png"
+    },
+    {
+      "id": "armchair-down",
+      "anchor": [
+        20,
+        38
+      ],
+      "footprint": [
+        40,
+        40
+      ],
+      "direction": "down",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        60,
+        522,
+        40,
+        39
+      ],
+      "world_anchor": [
+        80,
+        560
+      ],
+      "canonical_part_count": 10,
+      "image_path": "individual/armchair-down.png"
+    },
+    {
+      "id": "armchair-up",
+      "anchor": [
+        20,
+        38
+      ],
+      "footprint": [
+        40,
+        40
+      ],
+      "direction": "up",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        220,
+        522,
+        40,
+        39
+      ],
+      "world_anchor": [
+        240,
+        560
+      ],
+      "canonical_part_count": 10,
+      "image_path": "individual/armchair-up.png"
+    },
+    {
+      "id": "armchair-left",
+      "anchor": [
+        20,
+        50
+      ],
+      "footprint": [
+        40,
+        40
+      ],
+      "direction": "left",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        380,
+        510,
+        40,
+        51
+      ],
+      "world_anchor": [
+        400,
+        560
+      ],
+      "canonical_part_count": 10,
+      "image_path": "individual/armchair-left.png"
+    },
+    {
+      "id": "armchair-right",
+      "anchor": [
+        20,
+        50
+      ],
+      "footprint": [
+        40,
+        40
+      ],
+      "direction": "right",
+      "drawing_method": "symmetric_side_mirror",
+      "atlas": "furniture",
+      "crop": [
+        540,
+        510,
+        40,
+        51
+      ],
+      "world_anchor": [
+        560,
+        560
+      ],
+      "canonical_part_count": 10,
+      "image_path": "individual/armchair-right.png"
+    },
+    {
+      "id": "pouf-round",
+      "anchor": [
+        12,
+        22
+      ],
+      "footprint": [
+        24,
+        24
+      ],
+      "direction": "symmetric",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        708,
+        538,
+        24,
+        23
+      ],
+      "world_anchor": [
+        720,
+        560
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/pouf-round.png"
+    },
+    {
+      "id": "pouf-square",
+      "anchor": [
+        12,
+        24
+      ],
+      "footprint": [
+        24,
+        24
+      ],
+      "direction": "down",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        868,
+        536,
+        24,
+        25
+      ],
+      "world_anchor": [
+        880,
+        560
+      ],
+      "canonical_part_count": 1,
+      "image_path": "individual/pouf-square.png"
+    },
+    {
+      "id": "stool-round",
+      "anchor": [
+        12,
+        23
+      ],
+      "footprint": [
+        24,
+        24
+      ],
+      "direction": "symmetric",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        1028,
+        537,
+        24,
+        24
+      ],
+      "world_anchor": [
+        1040,
+        560
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/stool-round.png"
+    },
+    {
+      "id": "stool-square",
+      "anchor": [
+        12,
+        26
+      ],
+      "footprint": [
+        24,
+        24
+      ],
+      "direction": "down",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        1188,
+        534,
+        24,
+        27
+      ],
+      "world_anchor": [
+        1200,
+        560
+      ],
+      "canonical_part_count": 5,
+      "image_path": "individual/stool-square.png"
+    },
+    {
+      "id": "bookcase-down",
+      "anchor": [
+        32,
+        65
+      ],
+      "footprint": [
+        64,
+        32
+      ],
+      "direction": "down",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        48,
+        639,
+        64,
+        66
+      ],
+      "world_anchor": [
+        80,
+        704
+      ],
+      "canonical_part_count": 32,
+      "image_path": "individual/bookcase-down.png"
+    },
+    {
+      "id": "bookcase-up",
+      "anchor": [
+        32,
+        64
+      ],
+      "footprint": [
+        64,
+        32
+      ],
+      "direction": "up",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        208,
+        640,
+        64,
+        65
+      ],
+      "world_anchor": [
+        240,
+        704
+      ],
+      "canonical_part_count": 32,
+      "image_path": "individual/bookcase-up.png"
+    },
+    {
+      "id": "bookcase-left",
+      "anchor": [
+        16,
+        58
+      ],
+      "footprint": [
+        32,
+        64
+      ],
+      "direction": "left",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        384,
+        646,
+        32,
+        59
+      ],
+      "world_anchor": [
+        400,
+        704
+      ],
+      "canonical_part_count": 32,
+      "image_path": "individual/bookcase-left.png"
+    },
+    {
+      "id": "bookcase-right",
+      "anchor": [
+        16,
+        58
+      ],
+      "footprint": [
+        32,
+        64
+      ],
+      "direction": "right",
+      "drawing_method": "symmetric_side_mirror",
+      "atlas": "furniture",
+      "crop": [
+        544,
+        646,
+        32,
+        59
+      ],
+      "world_anchor": [
+        560,
+        704
+      ],
+      "canonical_part_count": 32,
+      "image_path": "individual/bookcase-right.png"
+    },
+    {
+      "id": "side-table-square",
+      "anchor": [
+        16,
+        33
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "direction": "down",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        704,
+        671,
+        32,
+        34
+      ],
+      "world_anchor": [
+        720,
+        704
+      ],
+      "canonical_part_count": 5,
+      "image_path": "individual/side-table-square.png"
+    },
+    {
+      "id": "side-table-round",
+      "anchor": [
+        16,
+        32
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "direction": "symmetric",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        864,
+        672,
+        32,
+        33
+      ],
+      "world_anchor": [
+        880,
+        704
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/side-table-round.png"
+    },
+    {
+      "id": "cabinet-down",
+      "anchor": [
+        31,
+        37
+      ],
+      "footprint": [
+        64,
+        32
+      ],
+      "direction": "down",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        1009,
+        667,
+        63,
+        38
+      ],
+      "world_anchor": [
+        1040,
+        704
+      ],
+      "canonical_part_count": 7,
+      "image_path": "individual/cabinet-down.png"
+    },
+    {
+      "id": "cabinet-up",
+      "anchor": [
+        32,
+        37
+      ],
+      "footprint": [
+        64,
+        32
+      ],
+      "direction": "up",
+      "drawing_method": "reference_cleanup_uniform_scale",
+      "atlas": "furniture",
+      "crop": [
+        1168,
+        667,
+        64,
+        38
+      ],
+      "world_anchor": [
+        1200,
+        704
+      ],
+      "canonical_part_count": 7,
+      "image_path": "individual/cabinet-up.png"
+    }
+  ],
+  "group": "furniture",
+  "count": 40
+}

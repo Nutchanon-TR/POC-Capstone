@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-12",
+  "url": "http://127.0.0.1:3001/editor",
+  "unitTests": { "passed": 11, "failed": 0 },
+  "browserTests": { "command": "npm run test:studio", "passed": 1, "failed": 0 },
+  "typecheck": "passed",
+  "lintTouchedFiles": "passed",
+  "productionBuild": "passed",
+  "checks": {
+    "layoutPendingCounts": [15, 4, 15],
+    "objectsBeforeRelease": 194,
+    "objectsAfterRelease": 209,
+    "objectsAfterUndo": 194,
+    "objectsAfterRedo": 209,
+    "layoutErasedInOneGesture": 15,
+    "eraseUndoWithRadioFocus": "passed",
+    "floorChangedTilesInExportedTmj": 15,
+    "spacePanPlacementAndSelectionWithoutEdits": "passed",
+    "escapeAndOutsideReleaseCancel": "passed",
+    "textControlShortcutIsolation": "passed",
+    "pageErrors": []
+  }
+}

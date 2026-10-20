@@ -1,0 +1,11 @@
+node_modules/
+.next/
+public/
+asset/
+assets/
+maps/
+artifacts/
+test-results/
+package-lock.json
+demo.tiled-session
+server/dist/

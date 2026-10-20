@@ -1,0 +1,46 @@
+[
+  {
+    "key": "kmutt-booth",
+    "width": 196,
+    "height": 176,
+    "parts": [
+      {
+        "key": "kmutt-booth-panel",
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 65
+      },
+      {
+        "key": "expo-cloth-table",
+        "x": 40,
+        "y": 100,
+        "w": 116,
+        "h": 43
+      },
+      {
+        "key": "chair-padded-down",
+        "x": 80,
+        "y": 68,
+        "w": 36,
+        "h": 37
+      },
+      {
+        "key": "expo-computer",
+        "x": 64,
+        "y": 76,
+        "w": 32,
+        "h": 36,
+        "depthY": 70
+      },
+      {
+        "key": "expo-documents",
+        "x": 120,
+        "y": 92,
+        "w": 20,
+        "h": 18,
+        "depthY": 54
+      }
+    ]
+  }
+]

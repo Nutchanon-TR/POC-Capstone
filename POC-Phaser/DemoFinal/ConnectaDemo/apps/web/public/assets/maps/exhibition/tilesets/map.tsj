@@ -1,0 +1,1825 @@
+{
+  "type": "tileset",
+  "name": "expo-sketch",
+  "objectalignment": "topleft",
+  "tiles": [
+    {
+      "id": 0,
+      "image": "../images/tile-1.png",
+      "imagewidth": 48,
+      "imageheight": 107,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 24
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 106
+        },
+        {
+          "name": "assetKey",
+          "value": "table-long-v",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 106,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "table-long-v",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ],
+      "objectgroup": {
+        "objects": [
+          {
+            "id": 1,
+            "name": "Footprint",
+            "x": 2,
+            "y": 42,
+            "width": 44,
+            "height": 64,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "image": "../images/tile-2.png",
+      "imagewidth": 48,
+      "imageheight": 72,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 24
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 71
+        },
+        {
+          "name": "assetKey",
+          "value": "table-short-v",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 71,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "table-short-v",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ],
+      "objectgroup": {
+        "objects": [
+          {
+            "id": 1,
+            "name": "Footprint",
+            "x": 2,
+            "y": 39,
+            "width": 44,
+            "height": 32,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "image": "../images/tile-3.png",
+      "imagewidth": 32,
+      "imageheight": 41,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 40
+        },
+        {
+          "name": "interactKind",
+          "type": "string",
+          "value": "chair"
+        },
+        {
+          "name": "assetKey",
+          "value": "chair-padded-left",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 40,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "chair-padded-left",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": true,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ],
+      "objectgroup": {
+        "objects": [
+          {
+            "id": 1,
+            "name": "Footprint",
+            "x": 2,
+            "y": 24,
+            "width": 28,
+            "height": 16,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "image": "../images/tile-4.png",
+      "imagewidth": 32,
+      "imageheight": 41,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 40
+        },
+        {
+          "name": "interactKind",
+          "type": "string",
+          "value": "chair"
+        },
+        {
+          "name": "assetKey",
+          "value": "chair-padded-right",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 40,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "chair-padded-right",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": true,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ],
+      "objectgroup": {
+        "objects": [
+          {
+            "id": 1,
+            "name": "Footprint",
+            "x": 2,
+            "y": 24,
+            "width": 28,
+            "height": 16,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "image": "../images/tile-5.png",
+      "imagewidth": 96,
+      "imageheight": 56,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 48
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 55
+        },
+        {
+          "name": "interactKind",
+          "type": "string",
+          "value": "sofa"
+        },
+        {
+          "name": "assetKey",
+          "value": "sofa-down",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 55,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "sofa-down",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": true,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ],
+      "objectgroup": {
+        "objects": [
+          {
+            "id": 1,
+            "name": "Footprint",
+            "x": 2,
+            "y": 35,
+            "width": 92,
+            "height": 20,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "image": "../images/tile-6.png",
+      "imagewidth": 95,
+      "imageheight": 57,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 47
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "interactKind",
+          "type": "string",
+          "value": "sofa"
+        },
+        {
+          "name": "assetKey",
+          "value": "sofa-up",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 56,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "sofa-up",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": true,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ],
+      "objectgroup": {
+        "objects": [
+          {
+            "id": 1,
+            "name": "Footprint",
+            "x": 2,
+            "y": 36,
+            "width": 91,
+            "height": 20,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "image": "../images/tile-7.png",
+      "imagewidth": 25,
+      "imageheight": 28,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 12
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 27
+        },
+        {
+          "name": "assetKey",
+          "value": "plant-small",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 27,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "plant-small",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ],
+      "objectgroup": {
+        "objects": [
+          {
+            "id": 1,
+            "name": "Footprint",
+            "x": 4,
+            "y": 19,
+            "width": 16,
+            "height": 8,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "image": "../images/tile-8.png",
+      "imagewidth": 43,
+      "imageheight": 48,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 21
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 47
+        },
+        {
+          "name": "assetKey",
+          "value": "plant-medium",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 47,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "plant-medium",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ],
+      "objectgroup": {
+        "objects": [
+          {
+            "id": 1,
+            "name": "Footprint",
+            "x": 9,
+            "y": 35,
+            "width": 24,
+            "height": 12,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "image": "../images/tile-9.png",
+      "imagewidth": 71,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 35
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 95
+        },
+        {
+          "name": "assetKey",
+          "value": "tree-rounded",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 95,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "tree-rounded",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ],
+      "objectgroup": {
+        "objects": [
+          {
+            "id": 1,
+            "name": "Footprint",
+            "x": 15,
+            "y": 75,
+            "width": 40,
+            "height": 20,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "image": "../images/tile-10.png",
+      "imagewidth": 106,
+      "imageheight": 64,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 53
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 63
+        },
+        {
+          "name": "interactKind",
+          "type": "string",
+          "value": "board"
+        },
+        {
+          "name": "assetKey",
+          "value": "board-front",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 63,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "board-front",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": true,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ],
+      "objectgroup": {
+        "objects": [
+          {
+            "id": 1,
+            "name": "Footprint",
+            "x": 21,
+            "y": 55,
+            "width": 64,
+            "height": 8,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "image": "../images/tile-11.png",
+      "imagewidth": 27,
+      "imageheight": 28,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 13
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 27
+        },
+        {
+          "name": "assetKey",
+          "value": "bin-sort",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 27,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "bin-sort",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ],
+      "objectgroup": {
+        "objects": [
+          {
+            "id": 1,
+            "name": "Footprint",
+            "x": 2,
+            "y": 17,
+            "width": 23,
+            "height": 10,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "image": "../images/tile-12.png",
+      "imagewidth": 32,
+      "imageheight": 32,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "floor"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 0
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 0
+        },
+        {
+          "name": "assetKey",
+          "value": "floor-mint-center",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Floor",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": true,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 0,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "floor-mint-center",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "../images/tile-13.png",
+      "imagewidth": 32,
+      "imageheight": 32,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "floor"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 0
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 0
+        },
+        {
+          "name": "assetKey",
+          "value": "floor-wood-center",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Floor",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": true,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 0,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "floor-wood-center",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "../images/tile-14.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "assetKey",
+          "value": "wall-mint-n",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Layout",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 56,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "wall-mint-n",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "../images/tile-15.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "assetKey",
+          "value": "wall-mint-s",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Layout",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 56,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "wall-mint-s",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "../images/tile-16.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "assetKey",
+          "value": "wall-mint-e",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Layout",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 56,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "wall-mint-e",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "../images/tile-17.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "assetKey",
+          "value": "wall-mint-w",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Layout",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 56,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "wall-mint-w",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "../images/tile-18.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "assetKey",
+          "value": "wall-mint-corner-nw",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Layout",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 56,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "wall-mint-corner-nw",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "../images/tile-19.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "assetKey",
+          "value": "wall-mint-corner-ne",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Layout",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 56,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "wall-mint-corner-ne",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "../images/tile-20.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "assetKey",
+          "value": "wall-mint-corner-sw",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Layout",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 56,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "wall-mint-corner-sw",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "../images/tile-21.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "assetKey",
+          "value": "wall-mint-corner-se",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Layout",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 56,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "wall-mint-corner-se",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "../images/tile-22.png",
+      "imagewidth": 64,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 32
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "assetKey",
+          "value": "door-double-open",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Layout",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 56,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "door-double-open",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "../images/tile-23.png",
+      "imagewidth": 32,
+      "imageheight": 32,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "floor"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 0
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 0
+        },
+        {
+          "name": "assetKey",
+          "value": "floor-ivory-center",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Floor",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": true,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 0,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "floor-ivory-center",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "../images/tile-24.png",
+      "imagewidth": 116,
+      "imageheight": 62,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 58
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 59
+        },
+        {
+          "name": "assetKey",
+          "value": "expo-booth-counter",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 59,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "expo-booth-counter",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": true,
+          "type": "bool"
+        }
+      ],
+      "objectgroup": {
+        "objects": [
+          {
+            "id": 1,
+            "name": "Footprint",
+            "x": 2,
+            "y": 35,
+            "width": 112,
+            "height": 24,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "image": "../images/tile-25.png",
+      "imagewidth": 196,
+      "imageheight": 62,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 98
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 59
+        },
+        {
+          "name": "assetKey",
+          "value": "expo-registration-desk",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 59,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "expo-registration-desk",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ],
+      "objectgroup": {
+        "objects": [
+          {
+            "id": 1,
+            "name": "Footprint",
+            "x": 2,
+            "y": 35,
+            "width": 192,
+            "height": 24,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "image": "../images/tile-26.png",
+      "imagewidth": 116,
+      "imageheight": 43,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "assetKey",
+          "value": "expo-cloth-table",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 42,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "โต๊ะคลุมผ้า",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ],
+      "objectgroup": {
+        "objects": [
+          {
+            "id": 1,
+            "name": "Table footprint",
+            "x": 4,
+            "y": 12,
+            "width": 108,
+            "height": 28,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "image": "../images/tile-27.png",
+      "imagewidth": 32,
+      "imageheight": 36,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "interactKind",
+          "type": "string",
+          "value": "computer"
+        },
+        {
+          "name": "assetKey",
+          "value": "expo-computer",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 35,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "คอมพิวเตอร์",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": true,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "../images/tile-28.png",
+      "imagewidth": 20,
+      "imageheight": 18,
+      "properties": [
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "interactKind",
+          "type": "string",
+          "value": "document"
+        },
+        {
+          "name": "assetKey",
+          "value": "expo-documents",
+          "type": "string"
+        },
+        {
+          "name": "family",
+          "value": "Prop",
+          "type": "string"
+        },
+        {
+          "name": "ground",
+          "value": false,
+          "type": "bool"
+        },
+        {
+          "name": "depthY",
+          "value": 17,
+          "type": "float"
+        },
+        {
+          "name": "label",
+          "value": "เอกสารกระดาษ",
+          "type": "string"
+        },
+        {
+          "name": "interactable",
+          "value": true,
+          "type": "bool"
+        },
+        {
+          "name": "editorHidden",
+          "value": false,
+          "type": "bool"
+        }
+      ]
+    }
+  ],
+  "version": "1.10",
+  "tiledversion": "1.11.2",
+  "tilewidth": 196,
+  "tileheight": 107,
+  "tilecount": 28,
+  "columns": 0,
+  "nexttileid": 28
+}

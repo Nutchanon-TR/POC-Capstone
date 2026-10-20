@@ -1,0 +1,25 @@
+{
+  "name": "connecta",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "apps/web"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace @connecta/web",
+    "build": "npm run build --workspace @connecta/web",
+    "start": "npm run start --workspace @connecta/web",
+    "check": "npm run check --workspace @connecta/web",
+    "test": "npm run test --workspace @connecta/web",
+    "test:e2e": "playwright test",
+    "format": "prettier --write apps/web/src apps/web/tests playwright.config.ts",
+    "format:check": "prettier --check apps/web/src apps/web/tests playwright.config.ts"
+  },
+  "engines": {
+    "node": ">=20.9"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "prettier": "^3.9.10"
+  }
+}

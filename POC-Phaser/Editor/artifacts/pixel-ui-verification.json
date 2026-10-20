@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-12",
+  "url": "http://127.0.0.1:3001/editor",
+  "unitTestsPassed": 11,
+  "browserTestsPassed": 2,
+  "lintTouchedFiles": "passed",
+  "productionBuild": "passed",
+  "checks": {
+    "sevenNamedIconToolsAtBottomCenter": "passed",
+    "layoutAndPropDeletedTogether": 16,
+    "bulkUndoRestoresBothFamilies": "passed",
+    "floorAndExplicitMarkersPreserved": "passed",
+    "floor5x3ExportedTileChanges": 15,
+    "spacePanAndCancelGestures": "passed",
+    "mobile390pxDockAndNoHorizontalOverflow": "passed",
+    "mobileShelfOpenSelectAndClose": "passed",
+    "pageErrors": []
+  },
+  "screenshots": [
+    "pixel-studio-desktop.png",
+    "pixel-studio-mobile.png",
+    "pixel-studio-mobile-library.png"
+  ]
+}

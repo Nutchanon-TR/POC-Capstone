@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-12",
+  "viewport": [1600,1000],
+  "starter": {"booths":5,"objects":194,"assets":25},
+  "hover": {"documentObjectsBefore":194,"documentObjectsAfter":194,"asset":"expo-booth-counter","x":384,"y":320,"cellWidth":128,"cellHeight":64,"alpha":0.42},
+  "click": {"documentObjectsAfter":195,"x":384,"y":320,"matchesPreview":true},
+  "invalidEdge": {"x":1312,"y":800,"valid":false,"documentObjectsAfterClick":195},
+  "undoRedo": {"undoObjects":194,"redoObjects":195},
+  "inspector": {"enteredX":405,"storedAndDisplayedX":384},
+  "block64": {"pointerWorldX":455,"pointerWorldY":365,"ghostX":448,"ghostY":320},
+  "leavingCanvasHidesPreview":true,
+  "drag": {"x":416,"y":384,"gridAligned":true,"outOfBoundsEditRejected":true,"exportKeptLastValidPosition":true},
+  "floor64": {"previewSize":[64,64],"changedExactlyFourCells":[432,433,474,475]},
+  "staleTabSaveRejected":true,
+  "persistence": {"importedObjects":195,"savedRevision":2,"objectsAfterReload":195},
+  "portableExport": {"downloadName":"map-tiled.zip","mapPath":"map.tmj","tilesetPath":"tilesets/map.tsj","originalAssets":25,"assetsAfterUpload":26,"allPNGDimensionsMatchTSJ":true},
+  "backendRequests":[],
+  "nativeTiledDesktop": "not available, bundle validated with parser and actual files",
+  "automatedTests": {"passed":8,"failed":0},
+  "typecheck":"passed",
+  "touchedSourceLint":"passed without warnings",
+  "productionBuild":"passed after stopping temporary preview servers to free memory"
+}

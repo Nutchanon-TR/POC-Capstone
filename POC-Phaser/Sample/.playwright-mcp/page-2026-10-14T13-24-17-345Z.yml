@@ -1,0 +1,89 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link "Connecta Lab หน้าหลัก" [ref=e4] [cursor=pointer]:
+      - /url: /
+      - strong [ref=e10]: connectalab
+    - generic [ref=e12]: Phaser playground
+    - generic [ref=e13]:
+      - generic [ref=e14]: Sample 0.1
+      - button "คู่มือโค้ด" [ref=e15] [cursor=pointer]
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]: พื้นที่ทดลองสำหรับนักพัฒนา
+        - heading "เริ่มจากโลกเล็ก ๆ ที่เข้าใจโค้ดได้ทุกส่วน" [level=1] [ref=e25]
+        - paragraph [ref=e26]: เดินสำรวจห้อง เปิดคอมพิวเตอร์ แล้วตามดูว่าแต่ละส่วนทำงานร่วมกันยังไง
+      - button "ดูสถาปัตยกรรม" [ref=e27] [cursor=pointer]
+    - generic [ref=e34]:
+      - region "พื้นที่เล่น" [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - strong [ref=e43]: Exhibition room
+            - generic [ref=e44]: 42 × 26 tiles
+          - generic [ref=e45]:
+            - button "กลับจุดเริ่มต้น" [ref=e46] [cursor=pointer]
+            - button "เต็มหน้าจอ" [ref=e51] [cursor=pointer]
+        - generic [ref=e62]:
+          - status [ref=e63]:
+            - strong [ref=e65]: กำลังเปิดห้องทดลอง
+            - generic [ref=e66]: โหลดแมปและตัวละคร
+          - generic: กำลังโหลด
+        - generic [ref=e67]:
+          - generic [ref=e71]:
+            - generic [ref=e72]: W
+            - generic [ref=e73]: A
+            - generic [ref=e74]: S
+            - generic [ref=e75]: D
+            - text: หรือปุ่มลูกศรเพื่อเดิน
+          - generic [ref=e76]:
+            - generic [ref=e77]: E
+            - text: เปิดคอมพิวเตอร์
+      - complementary [ref=e78]:
+        - generic [ref=e79]:
+          - text: ลองทำในห้องนี้
+          - heading "เปิดคอมพิวเตอร์ เครื่องแรกของคุณ" [level=2] [ref=e83]: เปิดคอมพิวเตอร์เครื่องแรกของคุณ
+          - paragraph [ref=e84]: เลือกบูธที่มีคอมพิวเตอร์ เดินเข้าใกล้จนเห็นกรอบสีเขียว แล้วกด E
+          - list [ref=e85]:
+            - listitem [ref=e86]:
+              - generic [ref=e87]: "1"
+              - generic [ref=e88]:
+                - strong [ref=e89]: เดินเข้าไปในห้อง
+                - generic [ref=e90]: ใช้ WASD หรือปุ่มลูกศร
+            - listitem [ref=e91]:
+              - generic [ref=e92]: "2"
+              - generic [ref=e93]:
+                - strong [ref=e94]: เข้าใกล้หน้าบูธ
+                - generic [ref=e95]: คอมพิวเตอร์อยู่บนโต๊ะ
+            - listitem [ref=e96]:
+              - generic [ref=e97]: "3"
+              - generic [ref=e98]:
+                - strong [ref=e99]: กด E เพื่อเปิดคอม
+                - generic [ref=e100]: แผงข้อมูลจะแสดงในหน้าเว็บ
+          - button "เดินเข้าใกล้คอมก่อน" [disabled] [ref=e101]
+        - generic [ref=e102]:
+          - generic [ref=e103]:
+            - heading "สถานะในเกม" [level=3] [ref=e104]
+            - generic [ref=e105]: live
+          - generic [ref=e107]:
+            - generic [ref=e108]:
+              - term [ref=e109]: ตัวละคร
+              - definition [ref=e110]: Student 02
+            - generic [ref=e111]:
+              - term [ref=e112]: ตำแหน่ง X / Y
+              - definition [ref=e113]: —
+            - generic [ref=e114]:
+              - term [ref=e115]: คอมพิวเตอร์
+              - definition [ref=e116]: —
+            - generic [ref=e117]:
+              - term [ref=e118]: สิ่งที่อยู่ใกล้
+              - definition [ref=e119]: ยังไม่มี
+          - generic [ref=e120]:
+            - generic [ref=e121]: แสดงกรอบ collision
+            - switch "แสดงกรอบ collision" [disabled] [ref=e122]
+        - button "จากเกมที่เล่น สู่โค้ดที่อ่าน ดู flow และ syntax ทีละส่วน" [ref=e125] [cursor=pointer]:
+          - generic [ref=e131]:
+            - strong [ref=e132]: จากเกมที่เล่น สู่โค้ดที่อ่าน
+            - generic [ref=e133]: ดู flow และ syntax ทีละส่วน
+    - generic [ref=e136]:
+      - generic [ref=e137]: Next.js Tailwind Ant Design Phaser
+      - generic [ref=e141]: แมปและตัวละครจากไฟล์ที่คุณให้มา

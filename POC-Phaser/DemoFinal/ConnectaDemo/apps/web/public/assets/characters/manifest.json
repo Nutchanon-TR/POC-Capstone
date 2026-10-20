@@ -1,0 +1,86 @@
+[
+  {
+    "id": "character-01",
+    "name": "Mika",
+    "walk": "assets/characters/character-01-walk.png",
+    "idle": null
+  },
+  {
+    "id": "character-02",
+    "name": "Haru",
+    "walk": "assets/characters/character-02-walk.png",
+    "idle": null
+  },
+  {
+    "id": "character-03",
+    "name": "Nami",
+    "walk": "assets/characters/character-03-walk.png",
+    "idle": null
+  },
+  {
+    "id": "character-04",
+    "name": "Ren",
+    "walk": "assets/characters/character-04-walk.png",
+    "idle": null
+  },
+  {
+    "id": "character-05",
+    "name": "Sora",
+    "walk": "assets/characters/character-05-walk.png",
+    "idle": null
+  },
+  {
+    "id": "character-06",
+    "name": "Yuki",
+    "walk": "assets/characters/character-06-walk.png",
+    "idle": null
+  },
+  {
+    "id": "character-07",
+    "name": "Mali",
+    "walk": "assets/characters/character-07-walk.png",
+    "idle": null
+  },
+  {
+    "id": "character-08",
+    "name": "Nont",
+    "walk": "assets/characters/character-08-walk.png",
+    "idle": null
+  },
+  {
+    "id": "character-09",
+    "name": "Phum",
+    "walk": "assets/characters/character-09-walk.png",
+    "idle": "assets/characters/character-09-idle.png"
+  },
+  {
+    "id": "character-10",
+    "name": "Prae",
+    "walk": "assets/characters/character-10-walk.png",
+    "idle": "assets/characters/character-10-idle.png"
+  },
+  {
+    "id": "character-11",
+    "name": "Dr. Arun",
+    "walk": "assets/characters/character-11-walk.png",
+    "idle": "assets/characters/character-11-idle.png"
+  },
+  {
+    "id": "character-12",
+    "name": "Dr. Pim",
+    "walk": "assets/characters/character-12-walk.png",
+    "idle": "assets/characters/character-12-idle.png"
+  },
+  {
+    "id": "character-13",
+    "name": "Fah",
+    "walk": "assets/characters/character-13-walk.png",
+    "idle": "assets/characters/character-13-idle.png"
+  },
+  {
+    "id": "character-14",
+    "name": "Dr. May",
+    "walk": "assets/characters/character-14-walk.png",
+    "idle": "assets/characters/character-14-idle.png"
+  }
+]

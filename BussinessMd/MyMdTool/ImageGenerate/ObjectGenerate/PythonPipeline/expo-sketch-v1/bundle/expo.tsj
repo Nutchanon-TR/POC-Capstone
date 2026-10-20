@@ -1,0 +1,1007 @@
+{
+  "type": "tileset",
+  "name": "expo-sketch",
+  "version": "1.10",
+  "tiledversion": "1.11.2",
+  "objectalignment": "topleft",
+  "tilewidth": 196,
+  "tileheight": 107,
+  "tilecount": 25,
+  "columns": 0,
+  "tiles": [
+    {
+      "id": 0,
+      "image": "props/table-long-v.png",
+      "imagewidth": 48,
+      "imageheight": 107,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "table-long-v"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 106
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 24
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 106
+        }
+      ],
+      "objectgroup": {
+        "type": "objectgroup",
+        "objects": [
+          {
+            "id": 1,
+            "x": 2,
+            "y": 42,
+            "width": 44,
+            "height": 64,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "image": "props/table-short-v.png",
+      "imagewidth": 48,
+      "imageheight": 72,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "table-short-v"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 71
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 24
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 71
+        }
+      ],
+      "objectgroup": {
+        "type": "objectgroup",
+        "objects": [
+          {
+            "id": 1,
+            "x": 2,
+            "y": 39,
+            "width": 44,
+            "height": 32,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "image": "props/chair-padded-left.png",
+      "imagewidth": 32,
+      "imageheight": 41,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "chair-padded-left"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 40
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 40
+        }
+      ],
+      "objectgroup": {
+        "type": "objectgroup",
+        "objects": [
+          {
+            "id": 1,
+            "x": 2,
+            "y": 24,
+            "width": 28,
+            "height": 16,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "image": "props/chair-padded-right.png",
+      "imagewidth": 32,
+      "imageheight": 41,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "chair-padded-right"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 40
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 40
+        }
+      ],
+      "objectgroup": {
+        "type": "objectgroup",
+        "objects": [
+          {
+            "id": 1,
+            "x": 2,
+            "y": 24,
+            "width": 28,
+            "height": 16,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "image": "props/sofa-down.png",
+      "imagewidth": 96,
+      "imageheight": 56,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "sofa-down"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 55
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 48
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 55
+        }
+      ],
+      "objectgroup": {
+        "type": "objectgroup",
+        "objects": [
+          {
+            "id": 1,
+            "x": 2,
+            "y": 35,
+            "width": 92,
+            "height": 20,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "image": "props/sofa-up.png",
+      "imagewidth": 95,
+      "imageheight": 57,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "sofa-up"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 47
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        }
+      ],
+      "objectgroup": {
+        "type": "objectgroup",
+        "objects": [
+          {
+            "id": 1,
+            "x": 2,
+            "y": 36,
+            "width": 91,
+            "height": 20,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "image": "props/plant-small.png",
+      "imagewidth": 25,
+      "imageheight": 28,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "plant-small"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 27
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 12
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 27
+        }
+      ],
+      "objectgroup": {
+        "type": "objectgroup",
+        "objects": [
+          {
+            "id": 1,
+            "x": 4,
+            "y": 19,
+            "width": 16,
+            "height": 8,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "image": "props/plant-medium.png",
+      "imagewidth": 43,
+      "imageheight": 48,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "plant-medium"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 47
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 21
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 47
+        }
+      ],
+      "objectgroup": {
+        "type": "objectgroup",
+        "objects": [
+          {
+            "id": 1,
+            "x": 9,
+            "y": 35,
+            "width": 24,
+            "height": 12,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "image": "props/tree-rounded.png",
+      "imagewidth": 71,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "tree-rounded"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 95
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 35
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 95
+        }
+      ],
+      "objectgroup": {
+        "type": "objectgroup",
+        "objects": [
+          {
+            "id": 1,
+            "x": 15,
+            "y": 75,
+            "width": 40,
+            "height": 20,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "image": "props/board-front.png",
+      "imagewidth": 106,
+      "imageheight": 64,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "board-front"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 63
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 53
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 63
+        }
+      ],
+      "objectgroup": {
+        "type": "objectgroup",
+        "objects": [
+          {
+            "id": 1,
+            "x": 21,
+            "y": 55,
+            "width": 64,
+            "height": 8,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "image": "props/bin-sort.png",
+      "imagewidth": 27,
+      "imageheight": 28,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "bin-sort"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 27
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 13
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 27
+        }
+      ],
+      "objectgroup": {
+        "type": "objectgroup",
+        "objects": [
+          {
+            "id": 1,
+            "x": 2,
+            "y": 17,
+            "width": 23,
+            "height": 10,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "image": "structure/floor-mint-center.png",
+      "imagewidth": 32,
+      "imageheight": 32,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "floor-mint-center"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "floor"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 0
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 0
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "structure/floor-wood-center.png",
+      "imagewidth": 32,
+      "imageheight": 32,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "floor-wood-center"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "floor"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 0
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 0
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "structure/wall-mint-n.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "wall-mint-n"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "structure/wall-mint-s.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "wall-mint-s"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "structure/wall-mint-e.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "wall-mint-e"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "structure/wall-mint-w.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "wall-mint-w"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "structure/wall-mint-corner-nw.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "wall-mint-corner-nw"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "structure/wall-mint-corner-ne.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "wall-mint-corner-ne"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "structure/wall-mint-corner-sw.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "wall-mint-corner-sw"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "structure/wall-mint-corner-se.png",
+      "imagewidth": 32,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "wall-mint-corner-se"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 16
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "structure/door-double-open.png",
+      "imagewidth": 64,
+      "imageheight": 96,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "door-double-open"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "structure"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 56
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 32
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 56
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "structure/floor-ivory-center.png",
+      "imagewidth": 32,
+      "imageheight": 32,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "floor-ivory-center"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "floor"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 0
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 0
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "props/expo-booth-counter.png",
+      "imagewidth": 116,
+      "imageheight": 62,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "expo-booth-counter"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 59
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 58
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 59
+        }
+      ],
+      "objectgroup": {
+        "type": "objectgroup",
+        "objects": [
+          {
+            "id": 1,
+            "x": 2,
+            "y": 35,
+            "width": 112,
+            "height": 24,
+            "rotation": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "image": "props/expo-registration-desk.png",
+      "imagewidth": 196,
+      "imageheight": 62,
+      "properties": [
+        {
+          "name": "assetKey",
+          "type": "string",
+          "value": "expo-registration-desk"
+        },
+        {
+          "name": "kind",
+          "type": "string",
+          "value": "prop"
+        },
+        {
+          "name": "depthY",
+          "type": "int",
+          "value": 59
+        },
+        {
+          "name": "anchorX",
+          "type": "int",
+          "value": 98
+        },
+        {
+          "name": "anchorY",
+          "type": "int",
+          "value": 59
+        }
+      ],
+      "objectgroup": {
+        "type": "objectgroup",
+        "objects": [
+          {
+            "id": 1,
+            "x": 2,
+            "y": 35,
+            "width": 192,
+            "height": 24,
+            "rotation": 0
+          }
+        ]
+      }
+    }
+  ]
+}

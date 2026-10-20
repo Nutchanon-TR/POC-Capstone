@@ -1,0 +1,89 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - link "Connecta Lab หน้าหลัก" [ref=f1e4] [cursor=pointer]:
+      - /url: /
+      - strong [ref=f1e10]: connectalab
+    - generic [ref=f1e12]: Phaser playground
+    - generic [ref=f1e13]:
+      - generic [ref=f1e14]: Sample 0.1
+      - button "คู่มือโค้ด" [ref=f1e15] [cursor=pointer]
+  - main [ref=f1e20]:
+    - generic [ref=f1e21]:
+      - generic [ref=f1e22]:
+        - generic [ref=f1e23]: พื้นที่ทดลองสำหรับนักพัฒนา
+        - heading "เริ่มจากโลกเล็ก ๆ ที่เข้าใจโค้ดได้ทุกส่วน" [level=1] [ref=f1e25]
+        - paragraph [ref=f1e26]: เดินสำรวจห้อง เปิดคอมพิวเตอร์ แล้วตามดูว่าแต่ละส่วนทำงานร่วมกันยังไง
+      - button "ดูสถาปัตยกรรม" [ref=f1e27] [cursor=pointer]
+    - generic [ref=f1e34]:
+      - region "พื้นที่เล่น" [ref=f1e35]:
+        - generic [ref=f1e36]:
+          - generic [ref=f1e37]:
+            - strong [ref=f1e43]: Exhibition room
+            - generic [ref=f1e44]: 42 × 26 tiles
+          - generic [ref=f1e45]:
+            - button "กลับจุดเริ่มต้น" [ref=f1e46] [cursor=pointer]
+            - button "เต็มหน้าจอ" [ref=f1e51] [cursor=pointer]
+        - generic [ref=f1e62]:
+          - status [ref=f1e63]:
+            - strong [ref=f1e65]: กำลังเปิดห้องทดลอง
+            - generic [ref=f1e66]: โหลดแมปและตัวละคร
+          - generic: กำลังโหลด
+        - generic [ref=f1e67]:
+          - generic [ref=f1e71]:
+            - generic [ref=f1e72]: W
+            - generic [ref=f1e73]: A
+            - generic [ref=f1e74]: S
+            - generic [ref=f1e75]: D
+            - text: หรือปุ่มลูกศรเพื่อเดิน
+          - generic [ref=f1e76]:
+            - generic [ref=f1e77]: E
+            - text: เปิดคอมพิวเตอร์
+      - complementary [ref=f1e78]:
+        - generic [ref=f1e79]:
+          - text: ลองทำในห้องนี้
+          - heading "เปิดคอมพิวเตอร์ เครื่องแรกของคุณ" [level=2] [ref=f1e83]: เปิดคอมพิวเตอร์เครื่องแรกของคุณ
+          - paragraph [ref=f1e84]: เลือกบูธที่มีคอมพิวเตอร์ เดินเข้าใกล้จนเห็นกรอบสีเขียว แล้วกด E
+          - list [ref=f1e85]:
+            - listitem [ref=f1e86]:
+              - generic [ref=f1e87]: "1"
+              - generic [ref=f1e88]:
+                - strong [ref=f1e89]: เดินเข้าไปในห้อง
+                - generic [ref=f1e90]: ใช้ WASD หรือปุ่มลูกศร
+            - listitem [ref=f1e91]:
+              - generic [ref=f1e92]: "2"
+              - generic [ref=f1e93]:
+                - strong [ref=f1e94]: เข้าใกล้หน้าบูธ
+                - generic [ref=f1e95]: คอมพิวเตอร์อยู่บนโต๊ะ
+            - listitem [ref=f1e96]:
+              - generic [ref=f1e97]: "3"
+              - generic [ref=f1e98]:
+                - strong [ref=f1e99]: กด E เพื่อเปิดคอม
+                - generic [ref=f1e100]: แผงข้อมูลจะแสดงในหน้าเว็บ
+          - button "เดินเข้าใกล้คอมก่อน" [disabled] [ref=f1e101]
+        - generic [ref=f1e102]:
+          - generic [ref=f1e103]:
+            - heading "สถานะในเกม" [level=3] [ref=f1e104]
+            - generic [ref=f1e105]: live
+          - generic [ref=f1e107]:
+            - generic [ref=f1e108]:
+              - term [ref=f1e109]: ตัวละคร
+              - definition [ref=f1e110]: Student 02
+            - generic [ref=f1e111]:
+              - term [ref=f1e112]: ตำแหน่ง X / Y
+              - definition [ref=f1e113]: —
+            - generic [ref=f1e114]:
+              - term [ref=f1e115]: คอมพิวเตอร์
+              - definition [ref=f1e116]: —
+            - generic [ref=f1e117]:
+              - term [ref=f1e118]: สิ่งที่อยู่ใกล้
+              - definition [ref=f1e119]: ยังไม่มี
+          - generic [ref=f1e120]:
+            - generic [ref=f1e121]: แสดงกรอบ collision
+            - switch "แสดงกรอบ collision" [disabled] [ref=f1e122]
+        - button "จากเกมที่เล่น สู่โค้ดที่อ่าน ดู flow และ syntax ทีละส่วน" [ref=f1e125] [cursor=pointer]:
+          - generic [ref=f1e131]:
+            - strong [ref=f1e132]: จากเกมที่เล่น สู่โค้ดที่อ่าน
+            - generic [ref=f1e133]: ดู flow และ syntax ทีละส่วน
+    - generic [ref=f1e136]:
+      - generic [ref=f1e137]: Next.js Tailwind Ant Design Phaser
+      - generic [ref=f1e141]: แมปและตัวละครจากไฟล์ที่คุณให้มา

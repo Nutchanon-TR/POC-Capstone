@@ -1,0 +1,236 @@
+{
+  "files": {
+    "table-long-v": {
+      "size": [
+        48,
+        107
+      ],
+      "colors": 9,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "table-short-v": {
+      "size": [
+        48,
+        72
+      ],
+      "colors": 8,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "chair-padded-left": {
+      "size": [
+        32,
+        41
+      ],
+      "colors": 11,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "chair-padded-right": {
+      "size": [
+        32,
+        41
+      ],
+      "colors": 11,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "sofa-down": {
+      "size": [
+        96,
+        56
+      ],
+      "colors": 13,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "sofa-up": {
+      "size": [
+        95,
+        57
+      ],
+      "colors": 13,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "plant-small": {
+      "size": [
+        25,
+        28
+      ],
+      "colors": 13,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "plant-medium": {
+      "size": [
+        43,
+        48
+      ],
+      "colors": 14,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "tree-rounded": {
+      "size": [
+        71,
+        96
+      ],
+      "colors": 21,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "board-front": {
+      "size": [
+        106,
+        64
+      ],
+      "colors": 20,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "bin-sort": {
+      "size": [
+        27,
+        28
+      ],
+      "colors": 14,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "floor-mint-center": {
+      "size": [
+        32,
+        32
+      ],
+      "colors": 3,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "floor-wood-center": {
+      "size": [
+        32,
+        32
+      ],
+      "colors": 3,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "wall-mint-n": {
+      "size": [
+        32,
+        96
+      ],
+      "colors": 8,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "wall-mint-s": {
+      "size": [
+        32,
+        96
+      ],
+      "colors": 8,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "wall-mint-e": {
+      "size": [
+        32,
+        96
+      ],
+      "colors": 8,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "wall-mint-w": {
+      "size": [
+        32,
+        96
+      ],
+      "colors": 8,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "wall-mint-corner-nw": {
+      "size": [
+        32,
+        96
+      ],
+      "colors": 8,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "wall-mint-corner-ne": {
+      "size": [
+        32,
+        96
+      ],
+      "colors": 8,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "wall-mint-corner-sw": {
+      "size": [
+        32,
+        96
+      ],
+      "colors": 8,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "wall-mint-corner-se": {
+      "size": [
+        32,
+        96
+      ],
+      "colors": 8,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "door-double-open": {
+      "size": [
+        64,
+        96
+      ],
+      "colors": 7,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "floor-ivory-center": {
+      "size": [
+        32,
+        32
+      ],
+      "colors": 2,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "expo-booth-counter": {
+      "size": [
+        116,
+        62
+      ],
+      "colors": 20,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    },
+    "expo-registration-desk": {
+      "size": [
+        196,
+        62
+      ],
+      "colors": 21,
+      "binaryAlpha": true,
+      "paletteSubset": true
+    }
+  },
+  "floorRepeat3x3": true,
+  "sourceHashes": {
+    "expo-booth-counter.png": "4c2493d0a3a46168b6c47c842a64c4d70049a379331e46367ae67e0a2db157af",
+    "expo-registration-desk.png": "44930c4fd5134e2840244241d48c9022f016241600062402aa38a6a8c1157f1a",
+    "layout-reference.png": "27c55cd875ac5bfc78e8c20686e1ffcf1d7ca214cc1fbd3a622d473cc74b1987"
+  },
+  "runtimeCollisionAndCharacterDepth": "pending: map-only, no character"
+}

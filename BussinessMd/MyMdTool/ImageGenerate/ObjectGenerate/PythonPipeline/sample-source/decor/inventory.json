@@ -1,0 +1,554 @@
+{
+  "sheet": "sheet.png",
+  "native_sheet": "sheet-native.png",
+  "pieces": [
+    {
+      "id": "plant-small",
+      "anchor": [
+        12,
+        27
+      ],
+      "footprint": [
+        16,
+        16
+      ],
+      "direction": "source",
+      "source_crop": [
+        56,
+        284,
+        204,
+        448
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        52,
+        101,
+        25,
+        28
+      ],
+      "world_anchor": [
+        64,
+        128
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/plant-small.png"
+    },
+    {
+      "id": "succulent",
+      "anchor": [
+        11,
+        27
+      ],
+      "footprint": [
+        16,
+        16
+      ],
+      "direction": "source",
+      "source_crop": [
+        292,
+        280,
+        428,
+        448
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        181,
+        101,
+        23,
+        28
+      ],
+      "world_anchor": [
+        192,
+        128
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/succulent.png"
+    },
+    {
+      "id": "plant-medium",
+      "anchor": [
+        21,
+        47
+      ],
+      "footprint": [
+        24,
+        24
+      ],
+      "direction": "source",
+      "source_crop": [
+        492,
+        216,
+        704,
+        452
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        299,
+        81,
+        43,
+        48
+      ],
+      "world_anchor": [
+        320,
+        128
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/plant-medium.png"
+    },
+    {
+      "id": "plant-tall",
+      "anchor": [
+        18,
+        55
+      ],
+      "footprint": [
+        24,
+        24
+      ],
+      "direction": "source",
+      "source_crop": [
+        728,
+        148,
+        924,
+        448
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        430,
+        73,
+        37,
+        56
+      ],
+      "world_anchor": [
+        448,
+        128
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/plant-tall.png"
+    },
+    {
+      "id": "tree-rounded",
+      "anchor": [
+        35,
+        95
+      ],
+      "footprint": [
+        40,
+        40
+      ],
+      "direction": "source",
+      "source_crop": [
+        956,
+        68,
+        1244,
+        460
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        541,
+        33,
+        71,
+        96
+      ],
+      "world_anchor": [
+        576,
+        128
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/tree-rounded.png"
+    },
+    {
+      "id": "tree-tall",
+      "anchor": [
+        24,
+        111
+      ],
+      "footprint": [
+        40,
+        40
+      ],
+      "direction": "source",
+      "source_crop": [
+        1296,
+        20,
+        1488,
+        460
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        680,
+        17,
+        49,
+        112
+      ],
+      "world_anchor": [
+        704,
+        128
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/tree-tall.png"
+    },
+    {
+      "id": "planter-h",
+      "anchor": [
+        40,
+        34
+      ],
+      "footprint": [
+        80,
+        24
+      ],
+      "direction": "down",
+      "source_crop": [
+        24,
+        552,
+        400,
+        744
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        24,
+        238,
+        80,
+        35
+      ],
+      "world_anchor": [
+        64,
+        272
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/planter-h.png"
+    },
+    {
+      "id": "planter-v",
+      "anchor": [
+        12,
+        75
+      ],
+      "footprint": [
+        24,
+        80
+      ],
+      "direction": "right",
+      "source_crop": [
+        456,
+        488,
+        604,
+        748
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        180,
+        197,
+        26,
+        76
+      ],
+      "world_anchor": [
+        192,
+        272
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/planter-v.png"
+    },
+    {
+      "id": "lantern-standing",
+      "anchor": [
+        17,
+        87
+      ],
+      "footprint": [
+        16,
+        16
+      ],
+      "direction": "source",
+      "source_crop": [
+        668,
+        460,
+        780,
+        748
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        303,
+        185,
+        34,
+        88
+      ],
+      "world_anchor": [
+        320,
+        272
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/lantern-standing.png"
+    },
+    {
+      "id": "lantern-wall",
+      "anchor": [
+        11,
+        27
+      ],
+      "footprint": [
+        16,
+        8
+      ],
+      "direction": "source",
+      "source_crop": [
+        852,
+        544,
+        1000,
+        732
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        437,
+        245,
+        22,
+        28
+      ],
+      "world_anchor": [
+        448,
+        272
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/lantern-wall.png"
+    },
+    {
+      "id": "bin-round",
+      "anchor": [
+        10,
+        27
+      ],
+      "footprint": [
+        20,
+        20
+      ],
+      "direction": "source",
+      "source_crop": [
+        1100,
+        552,
+        1244,
+        752
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        566,
+        245,
+        20,
+        28
+      ],
+      "world_anchor": [
+        576,
+        272
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/bin-round.png"
+    },
+    {
+      "id": "bin-sort",
+      "anchor": [
+        13,
+        27
+      ],
+      "footprint": [
+        24,
+        20
+      ],
+      "direction": "source",
+      "source_crop": [
+        1316,
+        552,
+        1500,
+        740
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        691,
+        245,
+        27,
+        28
+      ],
+      "world_anchor": [
+        704,
+        272
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/bin-sort.png"
+    },
+    {
+      "id": "sign-left",
+      "anchor": [
+        24,
+        55
+      ],
+      "footprint": [
+        24,
+        16
+      ],
+      "direction": "source",
+      "source_crop": [
+        36,
+        800,
+        196,
+        984
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        40,
+        361,
+        49,
+        56
+      ],
+      "world_anchor": [
+        64,
+        416
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/sign-left.png"
+    },
+    {
+      "id": "sign-right",
+      "anchor": [
+        24,
+        55
+      ],
+      "footprint": [
+        24,
+        16
+      ],
+      "direction": "source",
+      "source_crop": [
+        232,
+        800,
+        392,
+        984
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        168,
+        361,
+        49,
+        56
+      ],
+      "world_anchor": [
+        192,
+        416
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/sign-right.png"
+    },
+    {
+      "id": "board-front",
+      "anchor": [
+        53,
+        63
+      ],
+      "footprint": [
+        64,
+        16
+      ],
+      "direction": "source",
+      "source_crop": [
+        444,
+        800,
+        748,
+        984
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        267,
+        353,
+        106,
+        64
+      ],
+      "world_anchor": [
+        320,
+        416
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/board-front.png"
+    },
+    {
+      "id": "board-back",
+      "anchor": [
+        39,
+        63
+      ],
+      "footprint": [
+        64,
+        16
+      ],
+      "direction": "source",
+      "source_crop": [
+        784,
+        800,
+        1012,
+        984
+      ],
+      "atlas": "plants-decor",
+      "crop": [
+        409,
+        353,
+        79,
+        64
+      ],
+      "world_anchor": [
+        448,
+        416
+      ],
+      "canonical_part_count": 0,
+      "image_path": "individual/board-back.png"
+    },
+    {
+      "id": "barrier-h",
+      "anchor": [
+        34,
+        32
+      ],
+      "footprint": [
+        68,
+        12
+      ],
+      "direction": "down",
+      "atlas": "plants-decor",
+      "crop": [
+        542,
+        384,
+        68,
+        33
+      ],
+      "world_anchor": [
+        576,
+        416
+      ],
+      "canonical_part_count": 7,
+      "image_path": "individual/barrier-h.png"
+    },
+    {
+      "id": "barrier-v",
+      "anchor": [
+        6,
+        74
+      ],
+      "footprint": [
+        12,
+        68
+      ],
+      "direction": "right",
+      "atlas": "plants-decor",
+      "crop": [
+        698,
+        342,
+        12,
+        75
+      ],
+      "world_anchor": [
+        704,
+        416
+      ],
+      "canonical_part_count": 7,
+      "image_path": "individual/barrier-v.png"
+    }
+  ],
+  "group": "decor",
+  "count": 18
+}

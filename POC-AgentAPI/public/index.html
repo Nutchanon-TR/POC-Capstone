@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ร้านเว็บ · ทดลองสร้างเว็บด้วย AI</title><link rel="stylesheet" href="style.css"><script src="app.js" defer></script>
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="/" aria-label="ร้านเว็บ หน้าหลัก"><span class="brandmark">ร</span><span>ร้านเว็บ <small>ห้องทดลอง AI</small></span></a><span class="local-label">บนเครื่องของคุณ <span class="dot"></span></span></header>
+  <main class="workspace">
+    <aside class="controls">
+      <div class="section-heading"><span class="eyebrow">OPENROUTER POC</span><h1>เล่าร้านของคุณ<br>ให้ AI ทำเว็บ</h1><p>พิมพ์ภาษาไทย ดูผล แล้วสั่งแก้ต่อได้</p></div>
+      <div id="key-status" class="notice" role="status">กำลังตรวจการเชื่อมต่อ…</div>
+      <form form id="prompt-form">
+        <div class="mode-row"><strong id="mode-label">สร้างเว็บใหม่</strong><button id="new-site" type="button" class="text-button" hidden>+ เริ่มเว็บใหม่</button></div>
+        <label for="prompt">อยากให้เว็บเป็นแบบไหน</label>
+        <textarea id="prompt" rows="7" maxlength="6000" placeholder="เช่น ร้านอาหารชื่อครัวบ้านเรา โทนอุ่น มีเมนู 6 รายการ ราคา เวลาเปิด และปุ่มติดต่อ LINE" required></textarea>
+        <div class="examples" aria-label="ตัวอย่างคำสั่ง"><button type="button" data-example="restaurant">ร้านอาหาร</button><button type="button" data-example="nails">ร้านทำเล็บ</button><button type="button" data-example="tutor">ติวเตอร์</button></div>
+        <label for="model">โมเดลฟรี</label><select id="model" required><option value="">กำลังโหลดรายการ…</option></select>
+        <p id="model-info" class="field-note">ตรวจราคาจาก OpenRouter ก่อนทุกครั้ง</p>
+        <button type="submit" id="generate" class="primary">สร้างเว็บไซต์ <span aria-hidden="true">↗</span></button>
+      </form>
+      <div class="job-status" aria-live="polite"><div class="status-line"><span id="status-indicator" class="dot"></span><strong id="status-title">พร้อมเริ่มทดลอง</strong><span id="clock"></span></div><p id="status-detail">ไฟล์จะถูกบันทึกบนเครื่องเมื่อสร้างสำเร็จ</p></div>
+      <details class="setup"><summary>ใส่ key และขอบเขตการทดลอง</summary><p>เปิด <code>.env</code> ในโฟลเดอร์ POC ใส่ key หลัง <code>OPENROUTER_API_KEY=</code> แล้วบันทึกและกดรีเฟรชหน้านี้ ไม่ต้อง restart</p><p>สร้างเว็บหน้าร้านที่ทำงานใน browser ได้ ส่วนการจองจริง ชำระเงิน หรือส่งข้อมูลเข้าร้านต้องต่อ backend เพิ่ม</p><p>โค้ดที่สร้างเก็บใน <code>data/sites/</code> แต่ละเวอร์ชันแยกโฟลเดอร์ ไม่มีการอัปโหลดเว็บอัตโนมัติ</p><p>ใช้เฉพาะโมเดลที่ราคาเป็นศูนย์ หากโควตาหมดจะแสดงข้อผิดพลาด ไม่มีการสลับไปโมเดลเสียเงิน</p><a href="https://openrouter.ai/settings/keys" target="_blank" rel="noreferrer">จัดการ key ที่ OpenRouter ↗</a></details>
+      <section class="saved"><div class="mode-row"><h2>เว็บที่เก็บไว้</h2><button id="refresh-sites" type="button" class="text-button">รีเฟรช</button></div><div id="sites-list"><p class="field-note">ยังไม่มีเว็บที่สร้าง</p></div></section>
+    </aside>
+    <section class="output" aria-label="ผลลัพธ์เว็บไซต์">
+      <div class="output-header"><div><span class="eyebrow">พื้นที่ทำงาน</span><h2 id="site-title">เว็บไซต์ของคุณจะอยู่ตรงนี้</h2></div><a id="download" class="outline-button" hidden>ดาวน์โหลด ZIP ↓</a></div>
+      <div class="toolbar"><div role="tablist" aria-label="ดูผลลัพธ์"><button class="tab active" role="tab" aria-selected="true" aria-controls="preview-panel" id="preview-tab" data-panel="preview-panel">ดูเว็บ</button><button class="tab" role="tab" aria-selected="false" aria-controls="code-panel" id="code-tab" data-panel="code-panel" tabindex="-1">โค้ด</button><button class="tab" role="tab" aria-selected="false" aria-controls="history-panel" id="history-tab" data-panel="history-panel" tabindex="-1">เวอร์ชัน</button></div><div class="viewport-switch"><button id="desktop" class="view-button selected" type="button" aria-pressed="true">คอม</button><button id="mobile" class="view-button" type="button" aria-pressed="false">มือถือ</button></div></div>
+      <div id="preview-panel" class="panel preview-panel" role="tabpanel" aria-labelledby="preview-tab"><div id="empty-state" class="empty"><span class="empty-window" aria-hidden="true"><span></span><span></span><span></span><i></i></span><h3>เริ่มจากคำอธิบายสั้น ๆ</h3><p>บอกชื่อร้าน สิ่งที่ขาย และสิ่งที่อยากให้ลูกค้าทำ<br>AI จะส่งกลับเป็น HTML, CSS และ JavaScript จริง</p><span class="empty-note">สร้าง → ตรวจไฟล์ → ดูเว็บ → สั่งแก้</span></div><iframe id="preview" title="เว็บไซต์ที่ AI สร้าง" sandbox="allow-scripts" hidden></iframe></div>
+      <div id="code-panel" class="panel code-panel" role="tabpanel" aria-labelledby="code-tab" hidden><div class="code-toolbar"><label for="file-select">ไฟล์</label><select id="file-select"><option>index.html</option><option>styles.css</option><option>script.js</option></select><button id="copy-code" class="outline-button" type="button">คัดลอก</button></div><pre><code id="code-content">สร้างเว็บก่อน แล้วโค้ดจะปรากฏตรงนี้</code></pre></div>
+      <div id="history-panel" class="panel history-panel" role="tabpanel" aria-labelledby="history-tab" hidden><h3>ทุกครั้งที่แก้ จะเก็บเป็นฉบับใหม่</h3><p class="field-note">เลือกดูเวอร์ชันก่อนหน้า หรือใช้เป็นฉบับปัจจุบันเพื่อสั่งแก้ต่อ</p><div id="history-list"><p>ยังไม่มีประวัติ</p></div></div>
+      <footer class="result-footer"><div id="result-summary">ผลลัพธ์จริงจาก API จะปรากฏเมื่อใส่ key และสั่งสร้าง</div><div id="metrics" class="metrics"></div><p id="check-note" class="field-note" hidden>ตรวจไฟล์ครบและ JavaScript syntax แล้ว การแสดงผลและพฤติกรรมของเว็บต้องทดลองใน preview</p></footer>
+    </section>
+  </main>
+</body>
+</html>

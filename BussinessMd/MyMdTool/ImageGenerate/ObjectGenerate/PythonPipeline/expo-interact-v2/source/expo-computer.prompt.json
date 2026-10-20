@@ -1,0 +1,7 @@
+{
+  "prompt": "Create one isolated pixel-art furniture sprite for a Phaser RPG map, Editor32-v1. Orthographic high-angle top-down view, front edge horizontal, symmetric straight-on room axis; show top plane and compressed front plane like the existing pixel sprite reference. No isometric rotation. Sharp pixel clusters, thin dark brown contours, restricted cream/mint/green/brown palette matching the existing sprite. No text, logo, room, floor, people, shadows, glow, antialiasing, photographic rendering, or checkerboard. Actual transparent alpha, centered with padding. Existing expo-booth-counter image is ONLY style, palette and camera reference. Make ONE standalone desktop computer workstation: dark compact monitor with pale mint screen, small stand, and keyboard immediately in front. No desk or cloth or papers. Camera and crisp block proportions match computer at upper-right of existing sprite. Native intended width 32 pixels, height about 32 pixels. Easy to overlay on a separate desk sprite.",
+  "references": [
+    "D:/A_SIT04/SIT4-TERM1/a_M_CapStone/POC-Phaser/Editor/public/starter/props/expo-booth-counter.png"
+  ],
+  "mode": "built-in imagegen"
+}

@@ -1,0 +1,124 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Connecta home" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - text: connecta
+        - generic [ref=e10]: .
+      - navigation "Main navigation" [ref=e11]:
+        - link "Discover events" [ref=e12] [cursor=pointer]:
+          - /url: /events
+        - link "What’s on" [ref=e13] [cursor=pointer]:
+          - /url: /events/senior-showcase/schedule
+        - link "My workspace" [ref=e14] [cursor=pointer]:
+          - /url: /workspace
+      - link "Get started" [ref=e16] [cursor=pointer]:
+        - /url: /signin
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]: A new way to show up.
+        - heading "Good ideas. Great people. One shared space." [level=1] [ref=e25]: Good ideas.Great people.One shared space.
+        - paragraph [ref=e26]: Step into a showcase that feels a little more human. Explore student projects, meet their makers, and find your next spark.
+        - generic [ref=e27]:
+          - link "Find your next event" [ref=e28] [cursor=pointer]:
+            - /url: /events
+          - link "Take a look around" [ref=e32] [cursor=pointer]:
+            - /url: /events/senior-showcase
+        - generic [ref=e38]:
+          - text: Made for curious minds.
+          - strong [ref=e39]: And the ideas that bring them together.
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - img "A welcoming virtual university lobby with project booths and people" [ref=e42]
+          - generic [ref=e43]: Your next conversation starts here.
+        - generic [ref=e50]:
+          - text: Big ideas. Small steps.
+          - generic [ref=e51]: Everyone has a place here.
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - text: “Come see what we made!”
+            - generic [ref=e54]: Prae · Student presenter
+          - generic [ref=e55]: You
+        - generic [ref=e58]: ✳
+    - generic [ref=e59]:
+      - generic [ref=e60]: BUILT FOR THE MOMENTS BETWEEN THE SLIDES
+      - generic [ref=e61]: Explore freely
+      - generic [ref=e62]: Meet the makers
+      - generic [ref=e63]: Start a conversation
+    - generic [ref=e64]:
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - heading "A little curiosity goes a long way." [level=2] [ref=e67]
+          - paragraph [ref=e68]: Find something that makes you stop, think, and say hello.
+        - link "All events" [ref=e69] [cursor=pointer]:
+          - /url: /events
+      - generic [ref=e73]:
+        - link "A top-down view of the exhibition hall ● Live now Technology & design Senior Design Showcase 2026 17 October 2026 · 10:00 Virtual showcase" [ref=e74] [cursor=pointer]:
+          - /url: /events/senior-showcase
+          - generic [ref=e75]:
+            - img "A top-down view of the exhibition hall" [ref=e76]
+            - generic [ref=e77]: ● Live now
+          - generic [ref=e78]:
+            - paragraph [ref=e79]: Technology & design
+            - heading "Senior Design Showcase 2026" [level=3] [ref=e80]
+            - paragraph [ref=e81]: 17 October 2026 · 10:00
+            - generic [ref=e84]: Virtual showcase
+        - link "Good ideas. Greener futures. Coming up Sustainability Ideas for a greener tomorrow 23 October 2026 · 10:00 Virtual showcase" [ref=e91] [cursor=pointer]:
+          - /url: /events/greener-tomorrow
+          - generic [ref=e92]:
+            - generic [ref=e94]: Good ideas.Greener futures.
+            - generic [ref=e98]: Coming up
+          - generic [ref=e99]:
+            - paragraph [ref=e100]: Sustainability
+            - heading "Ideas for a greener tomorrow" [level=3] [ref=e101]
+            - paragraph [ref=e102]: 23 October 2026 · 10:00
+            - generic [ref=e105]: Virtual showcase
+        - link "Built to make a difference. Coming up Computing Capstone Demo Day 30 October 2026 · 09:00 Virtual showcase" [ref=e112] [cursor=pointer]:
+          - /url: /events/capstone-demo
+          - generic [ref=e113]:
+            - generic [ref=e115]: Built to makea difference.
+            - generic [ref=e119]: Coming up
+          - generic [ref=e120]:
+            - paragraph [ref=e121]: Computing
+            - heading "Capstone Demo Day" [level=3] [ref=e122]
+            - paragraph [ref=e123]: 30 October 2026 · 09:00
+            - generic [ref=e126]: Virtual showcase
+    - generic [ref=e134]:
+      - paragraph [ref=e135]: LESS WATCHING. MORE CONNECTING.
+      - heading "Show up as yourself. Leave with a new perspective." [level=2] [ref=e136]: Show up as yourself.Leave with a new perspective.
+      - generic [ref=e137]:
+        - article [ref=e138]:
+          - generic [ref=e139]: "01"
+          - heading "Find your way in" [level=3] [ref=e144]
+          - paragraph [ref=e145]: Choose a character and step into a shared, walkable exhibition.
+        - article [ref=e146]:
+          - generic [ref=e147]: "02"
+          - heading "Follow your curiosity" [level=3] [ref=e153]
+          - paragraph [ref=e154]: Wander through projects, explore posters, and meet the people behind the work.
+        - article [ref=e155]:
+          - generic [ref=e156]: "03"
+          - heading "Make a connection" [level=3] [ref=e162]
+          - paragraph [ref=e163]: Ask a question, save an idea, and keep in touch after the event.
+    - generic [ref=e165]:
+      - text: BRING YOUR COMMUNITY TOGETHER
+      - heading "Your ideas deserve a place to meet." [level=2] [ref=e166]: Your ideas deservea place to meet.
+      - link "Create a showcase" [ref=e167] [cursor=pointer]:
+        - /url: /workspace/create-event
+  - contentinfo [ref=e175]:
+    - generic [ref=e176]:
+      - link "Connecta home" [ref=e177] [cursor=pointer]:
+        - /url: /
+        - text: connecta
+        - generic [ref=e182]: .
+      - paragraph [ref=e183]: A little closer to the next big idea.
+    - generic [ref=e184]:
+      - link "Explore" [ref=e185] [cursor=pointer]:
+        - /url: /events
+      - link "Your profile" [ref=e186] [cursor=pointer]:
+        - /url: /profile
+      - generic [ref=e187]: © 2026 Connecta
+  - status
+  - alert [ref=e188]

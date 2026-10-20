@@ -1,0 +1,30 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - generic [aria-hidden] [ref=e5]: c
+        - generic [ref=e6]:
+          - text: CONNECTA / FLOOR PLAN
+          - heading "Exhibition hall01" [level=1] [ref=e7]
+      - generic [ref=e8]:
+        - generic [ref=e9]: 5 บูธ
+        - link "ดาวน์โหลดแมป" [ref=e11] [cursor=pointer]:
+          - /url: /assets/expo/expo-tiled.zip
+    - region "ภาพรวมแผนผังงาน" [ref=e15]:
+      - status [ref=e16]:
+        - paragraph [ref=e18]: กำลังจัดเตรียมแผนผัง…
+    - generic [ref=e19]:
+      - paragraph [ref=e20]:
+        - text: ลากเพื่อเลื่อน
+        - generic [ref=e22]: ·
+        - text: สกรอลล์เพื่อซูม
+      - navigation "ควบคุมมุมมองแมป" [ref=e23]:
+        - button "ซูมออก" [disabled] [ref=e24]: −
+        - status "ระดับซูม" [ref=e25]: 100%
+        - button "ซูมเข้า" [disabled] [ref=e26]: +
+        - button "แสดงแมปทั้งหมด" [disabled] [ref=e28]:
+          - generic [ref=e31]: ดูทั้งหมด
+        - button "แสดงชื่อพื้นที่" [disabled] [pressed] [ref=e33]
+      - combobox "เลือกพื้นที่ในแมป" [disabled] [ref=e37]:
+        - option "เลือกพื้นที่" [selected]
+  - button "Open Next.js Dev Tools" [ref=e43] [cursor=pointer]

@@ -1,0 +1,478 @@
+{
+  "profile": "ProjectExpo32-v1",
+  "tileSize": 32,
+  "nativePixelWorldSize": 1,
+  "palette": [
+    "292936",
+    "46364b",
+    "614854",
+    "855749",
+    "b17a54",
+    "d5a06b",
+    "eed2a0",
+    "594e55",
+    "84725e",
+    "b29b7c",
+    "d2c1a5",
+    "eee5cc",
+    "34494b",
+    "4b6656",
+    "74885d",
+    "a7b477",
+    "38435b",
+    "596881",
+    "909aa6",
+    "596d80",
+    "86a5ad",
+    "bed0ca",
+    "b75f65",
+    "d6ad57"
+  ],
+  "assets": [
+    {
+      "id": "table-long-v",
+      "kind": "prop",
+      "image": "props/table-long-v.png",
+      "width": 48,
+      "height": 107,
+      "anchor": [
+        24,
+        106
+      ],
+      "footprint": [
+        48,
+        128
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\table-long-v.png",
+      "generated": false
+    },
+    {
+      "id": "table-short-v",
+      "kind": "prop",
+      "image": "props/table-short-v.png",
+      "width": 48,
+      "height": 72,
+      "anchor": [
+        24,
+        71
+      ],
+      "footprint": [
+        48,
+        64
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\table-short-v.png",
+      "generated": false
+    },
+    {
+      "id": "chair-padded-left",
+      "kind": "prop",
+      "image": "props/chair-padded-left.png",
+      "width": 32,
+      "height": 41,
+      "anchor": [
+        16,
+        40
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\chair-padded-left.png",
+      "generated": false
+    },
+    {
+      "id": "chair-padded-right",
+      "kind": "prop",
+      "image": "props/chair-padded-right.png",
+      "width": 32,
+      "height": 41,
+      "anchor": [
+        16,
+        40
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\chair-padded-right.png",
+      "generated": false
+    },
+    {
+      "id": "sofa-down",
+      "kind": "prop",
+      "image": "props/sofa-down.png",
+      "width": 96,
+      "height": 56,
+      "anchor": [
+        48,
+        55
+      ],
+      "footprint": [
+        96,
+        40
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\sofa-down.png",
+      "generated": false
+    },
+    {
+      "id": "sofa-up",
+      "kind": "prop",
+      "image": "props/sofa-up.png",
+      "width": 95,
+      "height": 57,
+      "anchor": [
+        47,
+        56
+      ],
+      "footprint": [
+        96,
+        40
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\sofa-up.png",
+      "generated": false
+    },
+    {
+      "id": "plant-small",
+      "kind": "prop",
+      "image": "props/plant-small.png",
+      "width": 25,
+      "height": 28,
+      "anchor": [
+        12,
+        27
+      ],
+      "footprint": [
+        16,
+        16
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\plant-small.png",
+      "generated": false
+    },
+    {
+      "id": "plant-medium",
+      "kind": "prop",
+      "image": "props/plant-medium.png",
+      "width": 43,
+      "height": 48,
+      "anchor": [
+        21,
+        47
+      ],
+      "footprint": [
+        24,
+        24
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\plant-medium.png",
+      "generated": false
+    },
+    {
+      "id": "tree-rounded",
+      "kind": "prop",
+      "image": "props/tree-rounded.png",
+      "width": 71,
+      "height": 96,
+      "anchor": [
+        35,
+        95
+      ],
+      "footprint": [
+        40,
+        40
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\tree-rounded.png",
+      "generated": false
+    },
+    {
+      "id": "board-front",
+      "kind": "prop",
+      "image": "props/board-front.png",
+      "width": 106,
+      "height": 64,
+      "anchor": [
+        53,
+        63
+      ],
+      "footprint": [
+        64,
+        16
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\board-front.png",
+      "generated": false
+    },
+    {
+      "id": "bin-sort",
+      "kind": "prop",
+      "image": "props/bin-sort.png",
+      "width": 27,
+      "height": 28,
+      "anchor": [
+        13,
+        27
+      ],
+      "footprint": [
+        24,
+        20
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\bin-sort.png",
+      "generated": false
+    },
+    {
+      "id": "floor-mint-center",
+      "kind": "floor",
+      "image": "structure/floor-mint-center.png",
+      "width": 32,
+      "height": 32,
+      "anchor": [
+        0,
+        0
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-mint-center.png",
+      "generated": false
+    },
+    {
+      "id": "floor-wood-center",
+      "kind": "floor",
+      "image": "structure/floor-wood-center.png",
+      "width": 32,
+      "height": 32,
+      "anchor": [
+        0,
+        0
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-wood-center.png",
+      "generated": false
+    },
+    {
+      "id": "wall-mint-n",
+      "kind": "structure",
+      "image": "structure/wall-mint-n.png",
+      "width": 32,
+      "height": 96,
+      "anchor": [
+        16,
+        56
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-n.png",
+      "generated": false
+    },
+    {
+      "id": "wall-mint-s",
+      "kind": "structure",
+      "image": "structure/wall-mint-s.png",
+      "width": 32,
+      "height": 96,
+      "anchor": [
+        16,
+        56
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-s.png",
+      "generated": false
+    },
+    {
+      "id": "wall-mint-e",
+      "kind": "structure",
+      "image": "structure/wall-mint-e.png",
+      "width": 32,
+      "height": 96,
+      "anchor": [
+        16,
+        56
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-e.png",
+      "generated": false
+    },
+    {
+      "id": "wall-mint-w",
+      "kind": "structure",
+      "image": "structure/wall-mint-w.png",
+      "width": 32,
+      "height": 96,
+      "anchor": [
+        16,
+        56
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-w.png",
+      "generated": false
+    },
+    {
+      "id": "wall-mint-corner-nw",
+      "kind": "structure",
+      "image": "structure/wall-mint-corner-nw.png",
+      "width": 32,
+      "height": 96,
+      "anchor": [
+        16,
+        56
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-corner-nw.png",
+      "generated": false
+    },
+    {
+      "id": "wall-mint-corner-ne",
+      "kind": "structure",
+      "image": "structure/wall-mint-corner-ne.png",
+      "width": 32,
+      "height": 96,
+      "anchor": [
+        16,
+        56
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-corner-ne.png",
+      "generated": false
+    },
+    {
+      "id": "wall-mint-corner-sw",
+      "kind": "structure",
+      "image": "structure/wall-mint-corner-sw.png",
+      "width": 32,
+      "height": 96,
+      "anchor": [
+        16,
+        56
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-corner-sw.png",
+      "generated": false
+    },
+    {
+      "id": "wall-mint-corner-se",
+      "kind": "structure",
+      "image": "structure/wall-mint-corner-se.png",
+      "width": 32,
+      "height": 96,
+      "anchor": [
+        16,
+        56
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-corner-se.png",
+      "generated": false
+    },
+    {
+      "id": "door-double-open",
+      "kind": "structure",
+      "image": "structure/door-double-open.png",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        56
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\door-double-open.png",
+      "generated": false
+    },
+    {
+      "id": "floor-ivory-center",
+      "kind": "floor",
+      "image": "structure/floor-ivory-center.png",
+      "width": 32,
+      "height": 32,
+      "anchor": [
+        0,
+        0
+      ],
+      "footprint": [
+        32,
+        32
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\expo-sketch-v1\\prepare-map.py",
+      "generated": false
+    },
+    {
+      "id": "expo-booth-counter",
+      "kind": "prop",
+      "image": "props/expo-booth-counter.png",
+      "width": 116,
+      "height": 62,
+      "anchor": [
+        58,
+        59
+      ],
+      "footprint": [
+        112,
+        48
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\expo-sketch-v1\\source\\expo-booth-counter.png",
+      "generated": true,
+      "source_crop": [
+        390,
+        204,
+        1364,
+        708
+      ],
+      "uniform_scale": 0.11498973305954825
+    },
+    {
+      "id": "expo-registration-desk",
+      "kind": "prop",
+      "image": "props/expo-registration-desk.png",
+      "width": 196,
+      "height": 62,
+      "anchor": [
+        98,
+        59
+      ],
+      "footprint": [
+        192,
+        48
+      ],
+      "source": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\expo-sketch-v1\\source\\expo-registration-desk.png",
+      "generated": true,
+      "source_crop": [
+        150,
+        173,
+        1747,
+        657
+      ],
+      "uniform_scale": 0.12022542266750157
+    }
+  ],
+  "requiredCounts": {
+    "booths": 5,
+    "sofas": 4,
+    "diningChairs": 4,
+    "doors": 2
+  }
+}

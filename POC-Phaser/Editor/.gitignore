@@ -1,0 +1,10 @@
+node_modules/
+.next/
+test-results/
+playwright-report/
+.playwright-cli/
+*.tsbuildinfo
+.env*.local
+server/dist/
+infra/*.local.yaml
+.studio/

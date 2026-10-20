@@ -1,0 +1,58 @@
+- generic [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - main "Phaser exhibition hall" [active] [ref=e4]:
+    - heading "Visitor exhibition hall" [level=1] [ref=e5]
+    - generic "Interactive Tiled map. Move with arrow keys or click the floor." [ref=e6]
+    - status [ref=e8]: Opening your exhibition hall…
+    - generic [ref=e9]:
+      - link "Connecta" [ref=e10] [cursor=pointer]:
+        - /url: "#home"
+      - generic [ref=e13]:
+        - strong [ref=e14]: Senior Design Showcase 2026
+        - generic [ref=e15]: Realtime offline
+    - generic [ref=e16]:
+      - generic [ref=e17]: Demo account
+      - combobox "Demo account" [ref=e18]:
+        - option "Visitor demo" [selected]
+        - option "Presenter · booth 02"
+        - option "Presenter · booth 01"
+        - option "Judge demo"
+        - option "Staff demo"
+    - navigation "Hall tools" [ref=e19]:
+      - button "Find a project" [ref=e20] [cursor=pointer]
+      - button "People in this hall" [ref=e23] [cursor=pointer]
+      - button "Assigned projects" [ref=e26] [cursor=pointer]
+      - button "Presentation schedule" [ref=e29] [cursor=pointer]
+      - button "Do not disturb" [ref=e32] [cursor=pointer]
+      - button "Pause hall animation" [ref=e35] [cursor=pointer]
+      - button "Pause hall animation" [ref=e38] [cursor=pointer]
+    - generic "Live presenter screen and camera"
+    - generic [ref=e41]: Click to walk · W A S D / arrows · E open booth
+    - generic [ref=e42]:
+      - button [ref=e43] [cursor=pointer]
+      - button "Microphone off" [ref=e44] [cursor=pointer]:
+        - generic [ref=e47]: Mic off
+      - button "Camera off" [ref=e48] [cursor=pointer]
+      - button "Share screen" [ref=e52] [cursor=pointer]:
+        - generic [ref=e55]: Share off
+      - button "Nearby text chat" [ref=e56] [cursor=pointer]:
+        - generic [ref=e59]: Chat
+      - button "Wave" [ref=e60] [cursor=pointer]
+      - button "Raise hand" [ref=e64] [cursor=pointer]:
+        - generic [ref=e67]: Hand
+      - generic [ref=e68]:
+        - strong [ref=e69]: 0 real participants nearby
+        - text: Media offline · start LiveKit
+      - button "Map" [ref=e70] [cursor=pointer]
+      - button "Leave the hall" [ref=e74] [cursor=pointer]:
+        - generic [ref=e77]: Leave
+    - generic [ref=e78]:
+      - button "Zoom out" [ref=e79] [cursor=pointer]
+      - generic [ref=e81]: 100%
+      - button "Zoom in" [ref=e82] [cursor=pointer]
+  - generic "Design preview controls" [ref=e85]:
+    - button "All screens 21" [ref=e86] [cursor=pointer]:
+      - text: All screens
+      - generic [ref=e89]: "21"
+  - status

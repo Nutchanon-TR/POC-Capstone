@@ -1,0 +1,25 @@
+{
+  "name": "connecta-design-preview",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run build && node --env-file-if-exists=.env server.cjs",
+    "build": "node scripts/build.cjs",
+    "check": "node --check app.js && node --check motion.js && node --check features.js && node --check server.cjs && node --check server/runtime.cjs && tsc --noEmit",
+    "test": "node --test tests/policy.test.cjs",
+    "media:start": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/start-livekit.ps1"
+  },
+  "dependencies": {
+    "phaser": "4.2.1",
+    "livekit-client": "2.23.0",
+    "livekit-server-sdk": "2.19.1",
+    "@colyseus/core": "0.18.19",
+    "@colyseus/ws-transport": "0.18.4",
+    "@colyseus/sdk": "0.18.5"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12",
+    "typescript": "5.9.3",
+    "@types/node": "24.10.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-13",
+  "url": "http://127.0.0.1:3001/editor",
+  "unitTestsPassed": 15,
+  "browserTestsPassed": 5,
+  "productionBuild": "passed",
+  "lintTouchedFiles": "passed",
+  "checks": {
+    "16pxZoneAndColliderDrag": "passed",
+    "renameWaitsForConfirmation": "passed",
+    "confirmAndEnterUpdateInputPickerAndMapLabel": "passed",
+    "legacyLabelAndTitleAliasesUpdated": "passed",
+    "blankNameRejected": "passed",
+    "renameUndoAndRedo": "passed",
+    "existingColliderSelectWithoutDuplicate": "passed",
+    "colliderMoveResizeRenameDeleteUndo": "passed",
+    "assetColliderEditDeletePreserveArtworkAndOtherCollision": "passed",
+    "floor16pxSnapUsesOneNative32pxTile": "passed",
+    "gestureZoneAndMobileRegression": "passed",
+    "pageErrors": []
+  },
+  "screenshot": "collider-editing-16px.png"
+}

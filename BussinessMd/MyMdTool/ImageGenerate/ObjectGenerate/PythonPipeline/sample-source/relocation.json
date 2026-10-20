@@ -1,0 +1,762 @@
+{
+  "moved_files": [
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\table-short-h.png",
+      "sha256": "221D093568017B4D6ED55EBBC4E299D5330369037FACB749668A395D41AE513B",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\table-short-h.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\table-short-v.png",
+      "sha256": "B7657776752D2C280386FDBE8E7A3B0E1921D1A0A4D69F9613D4F49AF4D979ED",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\table-short-v.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\table-long-h.png",
+      "sha256": "BC1844052DA4DF1EE6BB8B5FE20442E5F5690FD194199CA708780ACC8B064560",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\table-long-h.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\table-long-v.png",
+      "sha256": "1CFFCC4FCB18B4439FC058019B59A62037D4B48161C6E3DB48C668912BB86516",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\table-long-v.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\table-round-small.png",
+      "sha256": "CCF6E3DB3D86844305DC3CB0F6A420EE0CABC351B2DCDE19B59D1838A655E76F",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\table-round-small.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\table-round-large.png",
+      "sha256": "B2994938F21EA5313A5D79F9558BCF38E00C8C8919D933A72486A34ECF46D19D",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\table-round-large.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\table-folding-down.png",
+      "sha256": "BFA5038C7C86A715B15563954620B9BCF86442E9E03A6D8C293A36E8F316BB9F",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\table-folding-down.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\table-folding-right.png",
+      "sha256": "1EFF1B550E21095551A38D58D11DAC03678C487B6A49A66B2ED1FF482B34FED6",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\table-folding-right.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\chair-wood-down.png",
+      "sha256": "380AA8522AD57F8D8A867CEB486F7023DF01660C8EABBDB026EECD9A5DC37A94",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\chair-wood-down.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\chair-wood-up.png",
+      "sha256": "2D90EBFA22DC40AC4126FB6782ECC53E1FFD3A35C906D2F108AA3B1BA45D496C",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\chair-wood-up.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\chair-wood-left.png",
+      "sha256": "DD400E7E023E83C00C748C63F46AC71BB0770AC7D9D5CB58FB4AE86E9DA26292",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\chair-wood-left.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\chair-wood-right.png",
+      "sha256": "C6AABCEA3B54344421CB9650161CB841743B26EDB0C8F8EFC6A5B385F0B536E8",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\chair-wood-right.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\chair-padded-down.png",
+      "sha256": "168365F0594C14EB5051E541641BBEFF3547938998463C3914B69D281CD8183E",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\chair-padded-down.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\chair-padded-up.png",
+      "sha256": "7BBC9535B9E393703466FBBC0DCE2C4F706903EF42AA9CBF2BD88816494DA692",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\chair-padded-up.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\chair-padded-left.png",
+      "sha256": "DBFB5CFA83E6986F63F953A7B210DC4DCA8D7F8A9074B1DEDDCD3F4CF5FD931B",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\chair-padded-left.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\chair-padded-right.png",
+      "sha256": "1887646CB4933D54EE5005F6023D18201AB581B8BED1A1B3D991A40A91C44B12",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\chair-padded-right.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\sofa-down.png",
+      "sha256": "F3F4F4671FE7CA788F9EB1034EF7CDBCD536B8727EC3C6870721F0314AD52BA6",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\sofa-down.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\sofa-up.png",
+      "sha256": "B25B1C9BAC1E1DB944EF86F4D40ADC5B2B1944A5C94C9CC0595970D2F03BD08B",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\sofa-up.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\sofa-left.png",
+      "sha256": "37C0456B04C03890FD1A0F5E39D09C28566D614F20B2B1825ACCADA105BB7356",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\sofa-left.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\sofa-right.png",
+      "sha256": "83EFE5C3F71C88EFF46618871C7B93D555F5EDBF5402BE251DDEF443A3C17FBF",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\sofa-right.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\bench-down.png",
+      "sha256": "B79969109B4D03E4A687370908D9BFABA9E4D1F35E525647D836E23FB1241626",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\bench-down.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\bench-up.png",
+      "sha256": "A9C178C685E1DE0AAE1007728AF28D9F009B8AC9930C39CD055AAF326E5621E7",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\bench-up.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\bench-left.png",
+      "sha256": "8ACA8D61DA48A14BBDE279050A22ED694804BDC436E621430A754F9B935404FB",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\bench-left.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\bench-right.png",
+      "sha256": "FEF98CA793688A1840D25F4A6C94EB3797BBCA18A03EAC1A492AB8881DBAE372",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\bench-right.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\armchair-down.png",
+      "sha256": "59B36553CE019CAD24904A800C59C07098F03917E3B507E1CA580E7E4A6197AE",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\armchair-down.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\armchair-up.png",
+      "sha256": "F2B86F6FF4D6DAA2808C57DD086E86588DD217CFCF2C40634FF1DDDAFC6E6DE1",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\armchair-up.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\armchair-left.png",
+      "sha256": "320BE684C0F449F09224F0BA9EF904613395F8CB8946A24E9A78317129BC2B74",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\armchair-left.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\armchair-right.png",
+      "sha256": "DB1178404C58DF339A568E09A49AB74B37F887CBD15A95213C10B9BAE7266C2F",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\armchair-right.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\pouf-round.png",
+      "sha256": "26AE2BF7B7C8733EC8A61198E00429B1C78E9D44E32CA820C44035D010B8A4EA",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\pouf-round.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\pouf-square.png",
+      "sha256": "269F4FEB6ECC8FC39A87A3D5DF4F321A125737D09C1DA0813AE8C963D0C57FEA",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\pouf-square.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\stool-round.png",
+      "sha256": "3581F7F27779A07F04BA7538A4BEB07C38A074521CFB602DB44C25BC38A2E25D",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\stool-round.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\stool-square.png",
+      "sha256": "82187FAD539782E6DA6B8DFAE7E2F59B13C276225266C4CFDBD32A79BF2FA29A",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\stool-square.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\bookcase-down.png",
+      "sha256": "7AE038C60A000C3369A55CBBAC8407A3D84F3FF2E3BEF5F7C23BEA685EE59899",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\bookcase-down.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\bookcase-up.png",
+      "sha256": "F7318C962D948FED2C4113BCEBB4927A8FD6EDC59D344ED097E80E2AFE5D21CD",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\bookcase-up.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\bookcase-left.png",
+      "sha256": "34979D570E5959A5973FB12775A067BD9892CD957545DDD19295FC977AB6751E",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\bookcase-left.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\bookcase-right.png",
+      "sha256": "0760B1FB3BF9538DC389362888C99058052C6EB9346C53FA4BA5BCDF47283AC2",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\bookcase-right.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\side-table-square.png",
+      "sha256": "FC32DA3F3356856E605D67D0AF6AF3F151A33077C993CA344ABCE54163E69EC1",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\side-table-square.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\side-table-round.png",
+      "sha256": "109F0321843A94A5497ED52B579D94EF19F735D36DD702C3704A7C5687AD23E1",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\side-table-round.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\cabinet-down.png",
+      "sha256": "D05AEC9612F89B4281EED953E9EC89D20978772B140E6D4CB1064DD3700BD017",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\cabinet-down.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\furniture\\individual\\cabinet-up.png",
+      "sha256": "05CE5E878662BDA130A84E67A4181291706A39C00BECFA2502528EC68C3A1A70",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\cabinet-up.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\plant-small.png",
+      "sha256": "EC41F25628A7E97C5CCDE0ABD6A108AD39D874E61DAAF86F3822F811F54F63BE",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\plant-small.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\succulent.png",
+      "sha256": "BDC1D31986049197D7E2576215F4B6D53640FEB37609E46DC0A0591F4DA125D1",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\succulent.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\plant-medium.png",
+      "sha256": "798C04511CE144BA35DF7882E1A8185B248177BA6DEF3F315211BA9AA25BBC88",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\plant-medium.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\plant-tall.png",
+      "sha256": "E26E875D3398B4653DB6679DAFA364E695E2875E958BE15EF03FA02E6B15EB28",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\plant-tall.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\tree-rounded.png",
+      "sha256": "40AAB7596C40A23C28C2CB79F45FF90F49332A2853D8146AB337799A1D88B1E0",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\tree-rounded.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\tree-tall.png",
+      "sha256": "2F0181B2C031000F9158730199355DE5325C73E52558C4DD451ED26D1573DEEE",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\tree-tall.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\planter-h.png",
+      "sha256": "4FFE3D598EE7ECBCF8A2D13E8F10BFAF4A3425334C57570B8061C220B57D6441",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\planter-h.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\planter-v.png",
+      "sha256": "908DC0D4A67157B71ED16CFAA25ED5C5CF1F531C43BA744535F2E0A86A20F9A8",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\planter-v.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\lantern-standing.png",
+      "sha256": "70AE3ABCE9DCB42AB3F7AD987756B8ED8FA98324FA367E2645B034C679822ABB",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\lantern-standing.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\lantern-wall.png",
+      "sha256": "C6939CEB407942C9AF208CB5EE2C93E46E0C573AB589A71A257D333C0EB2F86A",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\lantern-wall.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\bin-round.png",
+      "sha256": "906F6B9C54763696BA39C110E2FE8CE6D9B98A97F6E412C87240F2B8B2BE74AA",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\bin-round.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\bin-sort.png",
+      "sha256": "A6051D227457DF6F19A83D98A498BAD4EBBEAAB69BE6A2D3EB66FE69F906732A",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\bin-sort.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\sign-left.png",
+      "sha256": "B6BA0CA490B231DB1B4DE1F532316484EEA59D0B104D3C30D19A01FD3A6CEFF5",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\sign-left.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\sign-right.png",
+      "sha256": "481525F088B8CD6A76396A55DFBEEC77463C8F3D59F806F851CDC8E04894B1A7",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\sign-right.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\board-front.png",
+      "sha256": "9576541CAC0BF08DB3A5DE0390852B866AE6E3B9E00A6F816226EF97EBC43946",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\board-front.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\board-back.png",
+      "sha256": "E6495672C983AC162F25377FACD6DA1087691A214F20988569F098028985E9E4",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\board-back.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\barrier-h.png",
+      "sha256": "E4659D844DA39DBDF1B88E67961ED7E1CA2EAAC1659226DFBBDCF43EFF586FDA",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\barrier-h.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\decor\\individual\\barrier-v.png",
+      "sha256": "80651A21DE69CE0C95FEFBE4DCEE749CCD0DCF4B1E76D403F3610F0A165EED06",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\assets\\individual\\barrier-v.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-wood-n-w.png",
+      "sha256": "3E0A9EAF87F41D133DEAF4B11BA6800E7C5C7317275C15EF426D06D53B329EE4",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-wood-n-w.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-wood-n.png",
+      "sha256": "06DCB29A53BDCCE82BA29DD96480BE317E06AC5E9ECF40A8D50F2265AE0280F8",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-wood-n.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-wood-n-e.png",
+      "sha256": "832576B368889B20673089782F28319C2358B386A96A4B2F7857DBAA238E8269",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-wood-n-e.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-wood-w.png",
+      "sha256": "EE84AEF291134016B5CA396DF219358C46F07A7B6595CBB9D961D5DE7C069FD8",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-wood-w.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-wood-center.png",
+      "sha256": "9F5E654478B48C0DA2D2CF64DE1082EB83312418E5915FFE5216920E60C2AFE8",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-wood-center.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-wood-e.png",
+      "sha256": "A5ED1290ACEE5AAC346309457DFE3566FD1FCCFED82020860E3792CAD62FD9AE",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-wood-e.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-wood-s-w.png",
+      "sha256": "80C980F0F1F1F07C92A9452CC387E3DCBC437BDE9B41621CC60EF9E45B99996A",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-wood-s-w.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-wood-s.png",
+      "sha256": "87CAD08776A1DDFF67316460093810754B98F0F32840FFC0F9D35483DB8C3855",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-wood-s.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-wood-s-e.png",
+      "sha256": "FFA3A069E33F8D681BA68A659BFB11FF6E38AA5C1BFD8313A300D09C8BBA1967",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-wood-s-e.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-wood-extra-center.png",
+      "sha256": "9F5E654478B48C0DA2D2CF64DE1082EB83312418E5915FFE5216920E60C2AFE8",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-wood-extra-center.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-wood-extra-n.png",
+      "sha256": "06DCB29A53BDCCE82BA29DD96480BE317E06AC5E9ECF40A8D50F2265AE0280F8",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-wood-extra-n.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-wood-extra-s.png",
+      "sha256": "87CAD08776A1DDFF67316460093810754B98F0F32840FFC0F9D35483DB8C3855",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-wood-extra-s.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-wood-n.png",
+      "sha256": "008F07524C489FA9DA37E6E2966CE807ADD75D1C2EC9A5BBD5D8C59C28C4B0A3",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-wood-n.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-wood-s.png",
+      "sha256": "919887815031CD01249DC0A8D29D9E1248DBB789E42817A42DC2ABDCEC7E0B48",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-wood-s.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-wood-w.png",
+      "sha256": "A6DB61B540F130D739D54517129D812D0DD4E7D9BBEC56B3E780700F7BDA01E1",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-wood-w.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-wood-e.png",
+      "sha256": "CC18577D751BE7AE7B4A2C5B6CA4F630B82EB69800E963EABE30AD6EFBF73E80",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-wood-e.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-wood-corner-nw.png",
+      "sha256": "0702C503AF7C04D1A1201E34541BD1037A3D37B9C9AC970D61070CB006CB084B",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-wood-corner-nw.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-wood-corner-ne.png",
+      "sha256": "972503BA22EAD37914D027A3A9F955E09BB4C965560BA7748439AB06D64008D1",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-wood-corner-ne.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-wood-corner-sw.png",
+      "sha256": "181266D4A83F080D266B9F2890F94EE344643DFA01D3FB1BA669CBDFE3DCAA8F",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-wood-corner-sw.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-wood-corner-se.png",
+      "sha256": "2840245CF437BF4FBCCD097D4390CE8C967F456C99A60A0F67E17B5DC17778EA",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-wood-corner-se.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-wood-junction-corner-nw.png",
+      "sha256": "0702C503AF7C04D1A1201E34541BD1037A3D37B9C9AC970D61070CB006CB084B",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-wood-junction-corner-nw.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-wood-junction-corner-ne.png",
+      "sha256": "972503BA22EAD37914D027A3A9F955E09BB4C965560BA7748439AB06D64008D1",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-wood-junction-corner-ne.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-wood-junction-corner-sw.png",
+      "sha256": "181266D4A83F080D266B9F2890F94EE344643DFA01D3FB1BA669CBDFE3DCAA8F",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-wood-junction-corner-sw.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-wood-junction-corner-se.png",
+      "sha256": "2840245CF437BF4FBCCD097D4390CE8C967F456C99A60A0F67E17B5DC17778EA",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-wood-junction-corner-se.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-wood-junction-post.png",
+      "sha256": "26DB892E5A8070362AE6E17CD949FB1E4784FD4368BBEA9E8733FD5A24172343",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-wood-junction-post.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-mint-n-w.png",
+      "sha256": "EA06BD753EEA0627C8FAFF4D0905AA09259A5AD4A11EA6399385C02F5A7650F2",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-mint-n-w.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-mint-n.png",
+      "sha256": "82CC726C4AD5AE6A3480D40CB25602710BE532A7A31FC6C0D57E36E7818133D5",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-mint-n.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-mint-n-e.png",
+      "sha256": "74022890AD8B6739E5A6770E00EFDA82A21B2435F75A2977F24FE9DECE762B01",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-mint-n-e.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-mint-w.png",
+      "sha256": "BA366EBA8BB08ED01D8E5EF29E7248B3AC6D40EE5611915EC8647BC9B8593185",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-mint-w.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-mint-center.png",
+      "sha256": "74F7AC48F718E101E98758B5AD52F148B82A866D9658E83E56C7A5FC85483F2C",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-mint-center.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-mint-e.png",
+      "sha256": "8B34E1F5B5ED72C9EDF0397BC234708C1D6766260BEA67EF306F405C2AD8692B",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-mint-e.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-mint-s-w.png",
+      "sha256": "31D00CC14705801317AE0EABF2C2F7399F7F390A5F40BF94109863FE79C27527",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-mint-s-w.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-mint-s.png",
+      "sha256": "1786A34194C4AE814E31E13AB9CCFC4BE8F02D4770B5D2893475DC19B76B425D",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-mint-s.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-mint-s-e.png",
+      "sha256": "23D113B1C5ACC8A503722911828A9789DE036EAAE48CA80CEBE966DF8B2CBBF9",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-mint-s-e.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-mint-extra-center.png",
+      "sha256": "74F7AC48F718E101E98758B5AD52F148B82A866D9658E83E56C7A5FC85483F2C",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-mint-extra-center.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-mint-extra-n.png",
+      "sha256": "82CC726C4AD5AE6A3480D40CB25602710BE532A7A31FC6C0D57E36E7818133D5",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-mint-extra-n.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-mint-extra-s.png",
+      "sha256": "1786A34194C4AE814E31E13AB9CCFC4BE8F02D4770B5D2893475DC19B76B425D",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-mint-extra-s.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-n.png",
+      "sha256": "D9CB17F08381EDE39AD821D51AA79B726D982ECF7BBE2FE7C0D1B5BC0CA75437",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-mint-n.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-s.png",
+      "sha256": "27BAF0C0D859BB4D3CE2BD97DDB381367398BDE42FE90261C77725BFA900FB74",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-mint-s.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-w.png",
+      "sha256": "1C85C56FC0812DEB267070A6EC7315F3DAED149AADB84D0D81F2CFF8F47016E1",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-mint-w.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-e.png",
+      "sha256": "292BD5638C6200F1C51D01A5A5D3E5CEB2D1201E4D8FF64892581AEEADEC7654",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-mint-e.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-corner-nw.png",
+      "sha256": "4B8F9E56DCD4D34019B38817D7AA9D8A10308BF71818EE3C71475B1F21164071",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-mint-corner-nw.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-corner-ne.png",
+      "sha256": "DCD275486EA99E79CEDBD518A31BE875620B870BF730BF8F1C19EBDB8DE511A3",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-mint-corner-ne.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-corner-sw.png",
+      "sha256": "5CE9DC8333067D7DB314FC3B2E194EA3BE9155E19A2260F01ACE7E20704FC82C",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-mint-corner-sw.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-corner-se.png",
+      "sha256": "7792F200BCDA82FEB74A8D9E665CE3198E9B67AE9ECC37BB33EE11978A9868C1",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-mint-corner-se.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-junction-corner-nw.png",
+      "sha256": "4B8F9E56DCD4D34019B38817D7AA9D8A10308BF71818EE3C71475B1F21164071",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-mint-junction-corner-nw.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-junction-corner-ne.png",
+      "sha256": "DCD275486EA99E79CEDBD518A31BE875620B870BF730BF8F1C19EBDB8DE511A3",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-mint-junction-corner-ne.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-junction-corner-sw.png",
+      "sha256": "5CE9DC8333067D7DB314FC3B2E194EA3BE9155E19A2260F01ACE7E20704FC82C",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-mint-junction-corner-sw.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-junction-corner-se.png",
+      "sha256": "7792F200BCDA82FEB74A8D9E665CE3198E9B67AE9ECC37BB33EE11978A9868C1",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-mint-junction-corner-se.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-mint-junction-post.png",
+      "sha256": "0A3C09E770378465723F8DAA2938ED2662C6805A8C9E3793DC78593344C49346",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-mint-junction-post.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-carpet-n-w.png",
+      "sha256": "6769E1C6A112956A1DFABCEAA06174DC4BF80C73704ACCC9ED45E8C40B906A26",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-carpet-n-w.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-carpet-n.png",
+      "sha256": "DED8CAE98A00E1A773DD735B340859F6895C579073A8EC24920E3AD378F3A2F3",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-carpet-n.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-carpet-n-e.png",
+      "sha256": "98A7A70394EC2C4E6406C0DADEDA685152DF41C153291A3299F6CBBC267A358A",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-carpet-n-e.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-carpet-w.png",
+      "sha256": "867383993D9407DFE0ED8AC0CE9FB8566705C28A53A952EF0511EFE8F95F152D",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-carpet-w.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-carpet-center.png",
+      "sha256": "EEC8D3FA32A905CBFA9383FA9AA8D81073CECCA891F1E67F300EF1885BA460C0",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-carpet-center.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-carpet-e.png",
+      "sha256": "30D7DAB9B1339A4B647B8DF18042BC5E27EA2EC6E94DA83480B25D72841C16A6",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-carpet-e.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-carpet-s-w.png",
+      "sha256": "BB0B64496C33B903A1FFD4CD09436D59103ABE7EC24D766A90CE296CDE4B2423",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-carpet-s-w.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-carpet-s.png",
+      "sha256": "2863783811D6464EA75B93A2C31C1491F2400FD95F94C80E2D93B8DBEB4BF9C2",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-carpet-s.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-carpet-s-e.png",
+      "sha256": "4D376E9BF5D62771AE544D2F292E8F3581227D9CC19FB43D464AC3125528F3A0",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-carpet-s-e.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-carpet-extra-center.png",
+      "sha256": "EEC8D3FA32A905CBFA9383FA9AA8D81073CECCA891F1E67F300EF1885BA460C0",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-carpet-extra-center.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-carpet-extra-n.png",
+      "sha256": "DED8CAE98A00E1A773DD735B340859F6895C579073A8EC24920E3AD378F3A2F3",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-carpet-extra-n.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\floor-carpet-extra-s.png",
+      "sha256": "2863783811D6464EA75B93A2C31C1491F2400FD95F94C80E2D93B8DBEB4BF9C2",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\floor-carpet-extra-s.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-carpet-n.png",
+      "sha256": "E3BE076F7110C59238225D1027021F6E5FB3A1B5EA18D6B78282F188677C62F3",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-carpet-n.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-carpet-s.png",
+      "sha256": "49E574B260197CD042AC7CB0F0A7C608F69C1B2396D96D30C78095B6963C9B60",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-carpet-s.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-carpet-w.png",
+      "sha256": "44A1873A2D5039DA2CA6D135DBADDB4A2779C3A47CDE5BC25D0FE5D2BE3AFCCF",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-carpet-w.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-carpet-e.png",
+      "sha256": "7B923A739D0260329773CC6ECA8BE4301E984D56BFA602114BEB89F7A52055EA",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-carpet-e.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-carpet-corner-nw.png",
+      "sha256": "E8E64CBA5BA365438501D801B9D616914D659F2E971CCB0C8047F7087FED6103",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-carpet-corner-nw.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-carpet-corner-ne.png",
+      "sha256": "B1F18EA07EE1DF197AC9E236F3476AC29D846BA41606D4284241B326BDF0F046",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-carpet-corner-ne.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-carpet-corner-sw.png",
+      "sha256": "6FB03213BF72FEB25039A94ED13C56781C6103DED09F8CB9C3E23AC5207F520C",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-carpet-corner-sw.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-carpet-corner-se.png",
+      "sha256": "56BC3BA0FE725950BCFBCBC73D9CE346B5FFB411169CD3C0D9A5A15058B628FA",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-carpet-corner-se.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-carpet-junction-corner-nw.png",
+      "sha256": "E8E64CBA5BA365438501D801B9D616914D659F2E971CCB0C8047F7087FED6103",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-carpet-junction-corner-nw.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-carpet-junction-corner-ne.png",
+      "sha256": "B1F18EA07EE1DF197AC9E236F3476AC29D846BA41606D4284241B326BDF0F046",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-carpet-junction-corner-ne.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-carpet-junction-corner-sw.png",
+      "sha256": "6FB03213BF72FEB25039A94ED13C56781C6103DED09F8CB9C3E23AC5207F520C",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-carpet-junction-corner-sw.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-carpet-junction-corner-se.png",
+      "sha256": "56BC3BA0FE725950BCFBCBC73D9CE346B5FFB411169CD3C0D9A5A15058B628FA",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-carpet-junction-corner-se.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\wall-carpet-junction-post.png",
+      "sha256": "662FAFEA8E3A969730DDEA50609183C84201DF592161FC8D85276DE309D97B48",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\wall-carpet-junction-post.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\glass-h.png",
+      "sha256": "DC2CA0582A1D35CE88DDDFD076F6D5CCB1328C449B66EE50539E4F534CF6372A",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\glass-h.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\glass-v.png",
+      "sha256": "D7AF216AD519507DAE1E62E67AA201C12E2AAB6D671EBDFDCD4033234BBB4DE4",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\glass-v.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\glass-corner-nw.png",
+      "sha256": "E570403175352EEA3BCB75A5F768B1A2BF6674D0C6EB7FD992C9B07A37F4EAD6",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\glass-corner-nw.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\glass-corner-ne.png",
+      "sha256": "CA4F271BF66532E04F4CF9879926BD4986C1A5A56B279CE532E73F6D87828ED9",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\glass-corner-ne.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\glass-corner-sw.png",
+      "sha256": "5BBF82D4F087721DB74EF8E9C25969F762F49ECA83B735B1C0DC648D11B91D16",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\glass-corner-sw.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\glass-corner-se.png",
+      "sha256": "FDB44C2B2CD07C656BAD9017AC03A38103FFB2BC748C026EE2D431D7C52BF473",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\glass-corner-se.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\door-single-down.png",
+      "sha256": "19DBCD1372EA0DA810B199693782C52FE1E31EB0A63D2D5D162EA041E0E97C9D",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\door-single-down.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\door-single-up.png",
+      "sha256": "FD0C8800FCCEB5E0750AF59226B4E67BEF9ADDCF88A0D65E7BB5330D09377B2A",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\door-single-up.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\door-single-left.png",
+      "sha256": "2E37746921E35C5F4718CE617FBDC57FFB9138B7B549F07722142F1A1AE9B4E9",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\door-single-left.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\door-single-right.png",
+      "sha256": "633E27C2D3543E3F76F692A145B4E1BC8D412F89232B9A994C0D436172970140",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\door-single-right.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\door-single-open.png",
+      "sha256": "172A563E4A363FD3C0E469298E933ABDF60B89D9C4913E8FC69118AF7B431321",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\door-single-open.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\door-double-down.png",
+      "sha256": "4240C71CB6EB9FD2FED1BA6F68D691668D7F6F8E8218AFFECE0560A12B472E19",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\door-double-down.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\door-double-up.png",
+      "sha256": "3F028AD7E4B45B56AB3BC5BDAA6E0805AD9081503C83299DE0BC2674B8563A1C",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\door-double-up.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\door-double-left.png",
+      "sha256": "EF3AD98EF62131882FAB4D4AC27DD7A36755DE246716561EA91E2753EC982A8B",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\door-double-left.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\door-double-right.png",
+      "sha256": "91E8AA71F294294C00BDF73DEA0FCE4D37CD2AFA8965C43F5B25EB24842D7F62",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\door-double-right.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\door-double-open.png",
+      "sha256": "F40C8C77234FB80879D473803B7DAD3B8D86ACE32F13AA24D19197EFA59FEE81",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\door-double-open.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\pillar-stone.png",
+      "sha256": "F649B1A2BF6975171D448A52A4A081E49271407C95BCBD15718C7131C1A3E091",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\pillar-stone.png"
+    },
+    {
+      "to": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source\\structure\\individual\\pillar-darkwood.png",
+      "sha256": "47006C6A481EAA71F3790A2471BA779E84FF6C67539F6E089F7FB71B5116F683",
+      "from": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1\\map-components\\individual\\pillar-darkwood.png"
+    }
+  ],
+  "source_pack": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\POC-Phaser\\Editor\\outputs\\event-starter-corrected-v1",
+  "moved_count": 151,
+  "target_root": "D:\\A_SIT04\\SIT4-TERM1\\a_M_CapStone\\BussinessMd\\MyMdTool\\ImageGenerate\\ObjectGenerate\\PythonPipeline\\sample-source"
+}

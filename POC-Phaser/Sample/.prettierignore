@@ -1,0 +1,6 @@
+node_modules
+.next
+public/assets/map
+public/assets/characters
+test-results
+package-lock.json
